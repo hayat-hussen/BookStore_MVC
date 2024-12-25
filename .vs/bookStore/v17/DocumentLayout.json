@@ -1,0 +1,142 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\hayu\\source\\repos\\bookStore\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{823A1454-D85A-4FDB-8886-EB8005A564BA}|bookStoreWeb\\bookStoreWeb.csproj|c:\\users\\hayu\\source\\repos\\bookstore\\bookstoreweb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{823A1454-D85A-4FDB-8886-EB8005A564BA}|bookStoreWeb\\bookStoreWeb.csproj|solutionrelative:bookstoreweb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{823A1454-D85A-4FDB-8886-EB8005A564BA}|bookStoreWeb\\bookStoreWeb.csproj|c:\\users\\hayu\\source\\repos\\bookstore\\bookstoreweb\\views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{823A1454-D85A-4FDB-8886-EB8005A564BA}|bookStoreWeb\\bookStoreWeb.csproj|solutionrelative:bookstoreweb\\views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{823A1454-D85A-4FDB-8886-EB8005A564BA}|bookStoreWeb\\bookStoreWeb.csproj|c:\\users\\hayu\\source\\repos\\bookstore\\bookstoreweb\\views\\category\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{823A1454-D85A-4FDB-8886-EB8005A564BA}|bookStoreWeb\\bookStoreWeb.csproj|solutionrelative:bookstoreweb\\views\\category\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{823A1454-D85A-4FDB-8886-EB8005A564BA}|bookStoreWeb\\bookStoreWeb.csproj|c:\\users\\hayu\\source\\repos\\bookstore\\bookstoreweb\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{823A1454-D85A-4FDB-8886-EB8005A564BA}|bookStoreWeb\\bookStoreWeb.csproj|solutionrelative:bookstoreweb\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{823A1454-D85A-4FDB-8886-EB8005A564BA}|bookStoreWeb\\bookStoreWeb.csproj|c:\\users\\hayu\\source\\repos\\bookstore\\bookstoreweb\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{823A1454-D85A-4FDB-8886-EB8005A564BA}|bookStoreWeb\\bookStoreWeb.csproj|solutionrelative:bookstoreweb\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{823A1454-D85A-4FDB-8886-EB8005A564BA}|bookStoreWeb\\bookStoreWeb.csproj|c:\\users\\hayu\\source\\repos\\bookstore\\bookstoreweb\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{823A1454-D85A-4FDB-8886-EB8005A564BA}|bookStoreWeb\\bookStoreWeb.csproj|solutionrelative:bookstoreweb\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{823A1454-D85A-4FDB-8886-EB8005A564BA}|bookStoreWeb\\bookStoreWeb.csproj|c:\\users\\hayu\\source\\repos\\bookstore\\bookstoreweb\\bookstoreweb.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{823A1454-D85A-4FDB-8886-EB8005A564BA}|bookStoreWeb\\bookStoreWeb.csproj|solutionrelative:bookstoreweb\\bookstoreweb.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\hayu\\source\\repos\\bookStore\\bookStoreWeb\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "bookStoreWeb\\Models\\Category.cs",
+              "ToolTip": "C:\\Users\\hayu\\source\\repos\\bookStore\\bookStoreWeb\\Models\\Category.cs",
+              "RelativeToolTip": "bookStoreWeb\\Models\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T20:41:04.516Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CategoryController.cs",
+              "DocumentMoniker": "C:\\Users\\hayu\\source\\repos\\bookStore\\bookStoreWeb\\Controllers\\CategoryController.cs",
+              "RelativeDocumentMoniker": "bookStoreWeb\\Controllers\\CategoryController.cs",
+              "ToolTip": "C:\\Users\\hayu\\source\\repos\\bookStore\\bookStoreWeb\\Controllers\\CategoryController.cs",
+              "RelativeToolTip": "bookStoreWeb\\Controllers\\CategoryController.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAgwC8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T19:30:04.782Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\hayu\\source\\repos\\bookStore\\bookStoreWeb\\Views\\Category\\Create.cshtml",
+              "RelativeDocumentMoniker": "bookStoreWeb\\Views\\Category\\Create.cshtml",
+              "ToolTip": "C:\\Users\\hayu\\source\\repos\\bookStore\\bookStoreWeb\\Views\\Category\\Create.cshtml",
+              "RelativeToolTip": "bookStoreWeb\\Views\\Category\\Create.cshtml",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAIwCYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-25T19:32:12.559Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\hayu\\source\\repos\\bookStore\\bookStoreWeb\\Views\\Category\\Index.cshtml",
+              "RelativeDocumentMoniker": "bookStoreWeb\\Views\\Category\\Index.cshtml",
+              "ToolTip": "C:\\Users\\hayu\\source\\repos\\bookStore\\bookStoreWeb\\Views\\Category\\Index.cshtml",
+              "RelativeToolTip": "bookStoreWeb\\Views\\Category\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-25T19:18:27.408Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "bootstrap.css",
+              "DocumentMoniker": "C:\\Users\\hayu\\source\\repos\\bookStore\\bookStoreWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+              "RelativeDocumentMoniker": "bookStoreWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+              "ToolTip": "C:\\Users\\hayu\\source\\repos\\bookStore\\bookStoreWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+              "RelativeToolTip": "bookStoreWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+              "ViewState": "AgIAAPI0AAAAAAAAAAAAwCg1AAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-12-25T19:01:40.242Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\hayu\\source\\repos\\bookStore\\bookStoreWeb\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "bookStoreWeb\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\hayu\\source\\repos\\bookStore\\bookStoreWeb\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "bookStoreWeb\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAkwCwAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-25T19:01:00.334Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "bookStoreWeb.csproj",
+              "DocumentMoniker": "C:\\Users\\hayu\\source\\repos\\bookStore\\bookStoreWeb\\bookStoreWeb.csproj",
+              "RelativeDocumentMoniker": "bookStoreWeb\\bookStoreWeb.csproj",
+              "ToolTip": "C:\\Users\\hayu\\source\\repos\\bookStore\\bookStoreWeb\\bookStoreWeb.csproj",
+              "RelativeToolTip": "bookStoreWeb\\bookStoreWeb.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-25T18:57:49.504Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

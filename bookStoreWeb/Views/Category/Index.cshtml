@@ -1,27 +1,38 @@
 ﻿@model List<Category>
-<h1>
-    Category List
-</h1>
-<table class="table table-bordered table-striped">
-   <thead> <tr>
-        <th>Category Name</th>
-        <th>Display Order</th>
-    </tr>
-    </thead>
-    <tbody>
-        @foreach(var obj in Model.OrderBy(u=>u.DisplayOrder )){
-        <tr>
-            <td>
-               @obj.Name
+<div class="container">
+    <!-- Main container for the content -->
+    <div class="row pt-4 pb-3">
+        <!-- Row for the header -->
+        <div class="col-6">
+            <h2 class="text-primary">Category List</h2> <!-- Title for the category list -->
+        </div>
 
-            </td>
-            <td>
-               @obj.DisplayOrder
-           </td>
+        <div class="col-6 text-end">
+            <!-- Right-aligned column for the button -->
+            <a asp-controller="Category" asp-action="Create" class="btn btn-primary">
+                <!-- Button to create a new category -->
+                <i class="bi bi-plus-circle"></i> Create New Category <!-- Icon and text for the button -->
+            </a>
+        </div>
+    </div>
+
+    <table class="table table-bordered table-striped">
+        <!-- Table for displaying categories -->
+        <thead>
+            <tr>
+                <th>Category Name</th> <!-- Column header for category name -->
+                <th>Display Order</th> <!-- Column header for display order -->
             </tr>
-        }
-    </tbody>
-
-
-
-</table>
+        </thead>
+        <tbody>
+            @foreach (var obj in Model.OrderBy(u => u.DisplayOrder))
+            {
+                <!-- Loop through the category list ordered by display order -->
+                <tr>
+                    <td>@obj.Name</td> <!-- Display category name -->
+                    <td>@obj.DisplayOrder</td> <!-- Display display order -->
+                </tr>
+            }
+        </tbody>
+    </table>
+</div>

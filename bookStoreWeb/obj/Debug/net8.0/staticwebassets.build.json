@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "xglhZA5upH8ghn5cRld8bamdRKHqCPzx0GOBEOgM5K4=",
+  "Hash": "m6HJxxKpbBPOppIyc4kW4MKwhMlk8KHcmH6DONjO0Ac=",
   "Source": "bookStoreWeb",
   "BasePath": "_content/bookStoreWeb",
   "Mode": "Default",
@@ -136,8 +136,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "mpyigms19s",
-      "Integrity": "xlexqj9/k3uobVwGfciZcj/eDdooaNgcf4OFLtLUygM=",
+      "Fingerprint": "83z3xecpjr",
+      "Integrity": "nHLSG64qKEWaZvEOT9tsnhYMm6wEgFPbieRL3HT+aek=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css"
@@ -1731,6 +1731,51 @@
       ]
     },
     {
+      "Route": "lib/bootstrap/dist/css/bootstrap.83z3xecpjr.css",
+      "AssetFile": "C:\\Users\\hayu\\source\\repos\\bookStore\\bookStoreWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "300986"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"nHLSG64qKEWaZvEOT9tsnhYMm6wEgFPbieRL3HT+aek=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 25 Dec 2024 19:02:17 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "83z3xecpjr"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/bootstrap/dist/css/bootstrap.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-nHLSG64qKEWaZvEOT9tsnhYMm6wEgFPbieRL3HT+aek="
+        }
+      ]
+    },
+    {
       "Route": "lib/bootstrap/dist/css/bootstrap.css",
       "AssetFile": "C:\\Users\\hayu\\source\\repos\\bookStore\\bookStoreWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "Selectors": [],
@@ -1741,7 +1786,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "204136"
+          "Value": "300986"
         },
         {
           "Name": "Content-Type",
@@ -1749,11 +1794,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"xlexqj9/k3uobVwGfciZcj/eDdooaNgcf4OFLtLUygM=\""
+          "Value": "\"nHLSG64qKEWaZvEOT9tsnhYMm6wEgFPbieRL3HT+aek=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 19 Dec 2024 18:59:13 GMT"
+          "Value": "Wed, 25 Dec 2024 19:02:17 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1763,7 +1808,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-xlexqj9/k3uobVwGfciZcj/eDdooaNgcf4OFLtLUygM="
+          "Value": "sha256-nHLSG64qKEWaZvEOT9tsnhYMm6wEgFPbieRL3HT+aek="
         }
       ]
     },
@@ -2010,51 +2055,6 @@
         {
           "Name": "integrity",
           "Value": "sha256-gBwg2tmA0Ci2u54gMF1jNCVku6vznarkLS6D76htNNQ="
-        }
-      ]
-    },
-    {
-      "Route": "lib/bootstrap/dist/css/bootstrap.mpyigms19s.css",
-      "AssetFile": "C:\\Users\\hayu\\source\\repos\\bookStore\\bookStoreWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "204136"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"xlexqj9/k3uobVwGfciZcj/eDdooaNgcf4OFLtLUygM=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Thu, 19 Dec 2024 18:59:13 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "mpyigms19s"
-        },
-        {
-          "Name": "label",
-          "Value": "lib/bootstrap/dist/css/bootstrap.css"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-xlexqj9/k3uobVwGfciZcj/eDdooaNgcf4OFLtLUygM="
         }
       ]
     },
