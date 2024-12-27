@@ -1,6 +1,7 @@
 ﻿using bookStoreWeb.Data; // Importing the data context for database operations
 using bookStoreWeb.Models; // Importing the model classes
-using Microsoft.AspNetCore.Mvc; // Importing ASP.NET Core MVC
+using Microsoft.AspNetCore.Mvc;
+using Microsoft.EntityFrameworkCore; // Importing ASP.NET Core MVC
 
 namespace bookStoreWeb.Controllers // Defining the namespace for the controller
 {
@@ -45,5 +46,47 @@ namespace bookStoreWeb.Controllers // Defining the namespace for the controller
             }
             return View();
         }
+        public IActionResult Edit(int? id)
+        {
+            if (id == null || id == 0)
+            {
+                return NotFound();
+            }
+
+            Category? categoryFromDb = _db.Categories.Find(id);
+
+            if (categoryFromDb == null)
+            {
+                return NotFound();
+            }
+
+            return View(categoryFromDb); // Pass the category to the view for editing
+        }
+
+        // Action method to handle the form submission for editing a category
+        [HttpPost]
+        public IActionResult Edit(Category obj)
+        {
+            if (ModelState.IsValid)
+            {
+                // Check if the name and display order are the same
+                if (obj.Name == obj.DisplayOrder.ToString())
+                {
+                    ModelState.AddModelError("Name", "The Display Order cannot be the same as the Name.");
+                }
+                else
+                {
+                    // Update the category
+                    _db.Categories.Update(obj); // Use Update instead of Add
+                    _db.SaveChanges(); // Save changes to the database
+
+                    return RedirectToAction("Index", "Category");
+                }
+            }
+
+            return View(obj); // Return the category object to the view for corrections
+        }
+
+
     }
 }
