@@ -46,6 +46,8 @@ namespace bookStoreWeb.Controllers // Defining the namespace for the controller
             { 
             _db.Categories.Add(obj); // Adding the new category to the database
             _db.SaveChanges(); // Saving the changes to the database
+                TempData["success"] = "category created successfully";
+
                               
             return RedirectToAction("Index", "Category");
             }
@@ -84,6 +86,8 @@ namespace bookStoreWeb.Controllers // Defining the namespace for the controller
                     // Update the category
                     _db.Categories.Update(obj); // Use Update instead of Add
                     _db.SaveChanges(); // Save changes to the database
+                    TempData["success"] = "category edited successfully";
+
 
                     return RedirectToAction("Index", "Category");
                 }
@@ -128,6 +132,8 @@ namespace bookStoreWeb.Controllers // Defining the namespace for the controller
 
             _db.Categories.Remove(obj); // Remove the object from the context
             _db.SaveChanges(); // Save changes to the database
+            TempData["success"] = "category deleted successfully";
+
 
             return RedirectToAction("Index", "Category"); // Redirect after deletion
         }
