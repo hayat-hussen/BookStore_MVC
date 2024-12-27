@@ -16,10 +16,15 @@ namespace bookStoreWeb.Controllers // Defining the namespace for the controller
         }
 
         // Action method to display the list of categories
+        //public IActionResult Index()
+        //{
+        //    List<Category> objCategoryList = _db.Categories.ToList(); // Getting the list of categories from the database
+        //    return View(objCategoryList); // Returning the list to the view
+        //}
         public IActionResult Index()
         {
-            List<Category> objCategoryList = _db.Categories.ToList(); // Getting the list of categories from the database
-            return View(objCategoryList); // Returning the list to the view
+            var categories = _db.Categories.ToList(); // Ensure this is a list
+            return View(categories); // Pass the collection to the view
         }
 
         // Action method to show the create category form
@@ -85,6 +90,46 @@ namespace bookStoreWeb.Controllers // Defining the namespace for the controller
             }
 
             return View(obj); // Return the category object to the view for corrections
+        }
+
+
+
+        public IActionResult Delete(int? id)
+        {
+            if (id == null || id == 0)
+            {
+                return NotFound();
+            }
+
+            Category? categoryFromDb = _db.Categories.Find(id);
+
+            if (categoryFromDb == null)
+            {
+                return NotFound();
+            }
+
+            return View(categoryFromDb); // Pass the category to the view for confirmation
+        }
+
+        // Action method to handle the form submission for deleting a category
+        [HttpPost, ActionName("Delete")]
+        public IActionResult DeletePOST(int? id)
+        {
+            if (id == null || id == 0)
+            {
+                return NotFound();
+            }
+
+            Category? obj = _db.Categories.Find(id);
+            if (obj == null)
+            {
+                return NotFound();
+            }
+
+            _db.Categories.Remove(obj); // Remove the object from the context
+            _db.SaveChanges(); // Save changes to the database
+
+            return RedirectToAction("Index", "Category"); // Redirect after deletion
         }
 
 
