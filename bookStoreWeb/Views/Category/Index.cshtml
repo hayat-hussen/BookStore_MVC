@@ -1,56 +1,58 @@
 ﻿@model List<Category>
 
-<form method="post">
-
-
-<div class="container">
-    <!-- Main container for the content -->
-    <div class="row pt-4 pb-3">
-        <!-- Row for the header -->
-        <div class="col-6">
-            <h2 class="text-primary">Category List</h2> <!-- Title for the category list -->
-        </div>
-
-        <div class="col-6 text-end">
-            <!-- Right-aligned column for the button -->
-            <a asp-controller="Category" asp-action="Create" class="btn btn-primary">
-                <!-- Button to create a new category -->
-                <i class="bi bi-plus-circle"></i> Create New Category <!-- Icon and text for the button -->
-            </a>
+<div class="card shadow border mt-4">
+    <div class="card-header bg-secondary bg-gradient ml-0 py-3">
+        <div class="row">
+            <div class="col-12 text-center">
+                <h2 class="text-white py-2">Category List</h2> <!-- Form title -->
+            </div>
         </div>
     </div>
+    <div class="card-body p-4">
+        <form method="post">
+            <!-- Ensure this is properly opened and closed -->
+                <div class="row pb-3">
+                    <!-- Fixed missing closing quote -->
+                    <div class="col-6"></div>
+                    <div class="col-6 text-end">
+                        <a asp-controller="Category" asp-action="Create" class="btn btn-primary">
+                            <i class="bi bi-plus-circle"></i> Create New Category
+                        </a>
+                    </div>
+                </div>
 
-    <table class="table table-bordered table-striped">
-        <!-- Table for displaying categories -->
-        <thead>
-            <tr>
-                <th>Category Name</th> <!-- Column header for category name -->
-                <th>Display Order</th> <!-- Column header for display order -->
-                <th></th>
-            </tr>
-        </thead>
-        <tbody>
-            @foreach (var obj in Model.OrderBy(u => u.DisplayOrder))
-            {
-                <!-- Loop through the category list ordered by display order -->
-                <tr>
-                    <td>@obj.Name</td> <!-- Display category name -->
-                    <td>@obj.DisplayOrder</td> <!-- Display display order -->
-                    <td>
-                        <div class="w-75 btn-group" role="group">
-                            <a asp-controller="Category" asp-action="Edit" asp-route-id="@obj.Id"  class="btn btn-primary mx-2">
-                                <i class="bi bi-pencil-square"></i> Edit
-                            </a>
-
-                            <a asp-controller="Category" asp-action="Delete" asp-route-id="@obj.Id" class="btn btn-danger mx-2">
-                                <i class="bi bi-trash-fill"></i> Delete
-                            </a>
-
-                        </div>
-                    </td>
-                </tr>
-            }
-        </tbody>
-    </table>
+                <table class="table table-bordered table-striped">
+                    <thead>
+                        <tr>
+                            <th>Category Name</th>
+                            <th>Display Order</th>
+                            <th></th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        @foreach (var obj in Model.OrderBy(u => u.DisplayOrder))
+                        {
+                            <tr>
+                                <td>@obj.Name</td>
+                                <td>@obj.DisplayOrder</td>
+                                <td>
+                                    <div class="w-75 btn-group" role="group">
+                                        <a asp-controller="Category" asp-action="Edit" asp-route-id="@obj.Id" class="btn btn-primary mx-2">
+                                            <i class="bi bi-pencil-square"></i> Edit
+                                        </a>
+                                        <a asp-controller="Category" asp-action="Delete" asp-route-id="@obj.Id" class="btn btn-danger mx-2">
+                                            <i class="bi bi-trash-fill"></i> Delete
+                                        </a>
+                                    </div>
+                                </td>
+                            </tr>
+                        }
+                    </tbody>
+                </table>
+        </form> <!-- Properly closed form tag -->
+    </div>
 </div>
-</form>
+
+@section Scripts {
+    <partial name="_ValidationScriptsPartial" /> <!-- Include validation scripts -->
+}

@@ -1,39 +1,49 @@
-﻿@model Category
+﻿@using BookStore.Models
+@model Category
 
-<form method="post">
-    <!-- Form submission method is POST -->
-    <div class="border p-3 mt-4">
-        <!-- Container for the form -->
-        <div class="row pb-2">
-            <h2 class="text-primary">Create Category</h2> <!-- Form title -->
-            <hr />
-        </div>
-
-        <div class="mb-3 row p-1">
-            <label asp-for="Name" class="p-0"></label> <!-- Label for Name field -->
-            <input asp-for="Name" class="form-control" /> <!-- Input for category name -->
-            <span asp-validation-for="Name" class="text-danger"></span> <!-- Validation message for Name -->
-        </div>
-
-        <div class="mb-3 row p-1">
-            <label asp-for="DisplayOrder" class="p-0"></label> <!-- Label for Display Order field -->
-            <input asp-for="DisplayOrder" class="form-control" /> <!-- Input for display order -->
-            <span asp-validation-for="DisplayOrder" class="text-danger"></span> <!-- Validation message for Display Order -->
-        </div>
-
+<div class="card shadow border mt-4">
+    <div class="card-header bg-secondary bg-gradient ml-0 py-3">
         <div class="row">
-            <div class="col-6 col-md-3">
-                <button type="submit" class="btn btn-primary form-control">Create</button> <!-- Submit button -->
-            </div>
-            <div class="col-6 col-md-3">
-                <a asp-controller="Category" asp-action="Index" class="btn btn-outline-secondary form-control">Back To List</a> <!-- Link to go back -->
+            <div class="col-12 text-center">
+                <h2 class="text-white py-2">Create Category</h2> <!-- Form title -->
             </div>
         </div>
     </div>
-</form>
+    <div class="card-body p-4">
+        <!-- Fixed the class name here -->
+        <form method="post" class="row">
+            <!-- Form submission method is POST -->
+            <div class="border p-3 ">
+                <!-- Container for the form -->
+                
+
+                <div class="form-floating py-2 col-12">
+                    <input asp-for="Name"class="form-control border-0 shadow"  /> <!-- Input for category name -->
+
+                    <label asp-for="Name" class="ms-2"></label> <!-- Label for Name field -->
+                    <span asp-validation-for="Name" class="text-danger"></span> <!-- Validation message for Name -->
+                </div>
+
+                <div class="form-floating py-2 col-12">
+                    <input asp-for="DisplayOrder" class="form-control border-0 shadow"  /> <!-- Input for display order -->
+                    <label asp-for="DisplayOrder" class="ms-2"></label> <!-- Label for Display Order field -->
+
+                    <span asp-validation-for="DisplayOrder" class="text-danger"></span> <!-- Validation message for Display Order -->
+                </div>
+
+                <div class="row pt-2">
+                    <div class="col-6 col-md-3">
+                        <button type="submit" class="btn btn-primary form-control">Create</button> <!-- Submit button -->
+                    </div>
+                    <div class="col-6 col-md-3">
+                        <a asp-controller="Category" asp-action="Index" class="btn btn-outline-primary form-control">Back To List</a> <!-- Link to go back -->
+                    </div>
+                </div>
+            </div>
+        </form>
+    </div>
+</div>
 
 @section Scripts {
-    @{
-        <partial name="_ValidationScriptsPartial" />
-    } <!-- Include validation scripts -->
+    <partial name="_ValidationScriptsPartial" /> <!-- Include validation scripts -->
 }

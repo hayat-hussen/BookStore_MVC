@@ -259,3 +259,9 @@ C:\Users\hayu\source\repos\bookStore\bookStoreWeb\bin\Debug\net8.0\runtimes\win\
 C:\Users\hayu\source\repos\bookStore\bookStoreWeb\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Drawing.Common.dll
 C:\Users\hayu\source\repos\bookStore\bookStoreWeb\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Security.Cryptography.ProtectedData.dll
 C:\Users\hayu\source\repos\bookStore\bookStoreWeb\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Windows.Extensions.dll
+C:\Users\hayu\source\repos\bookStore\bookStoreWeb\bin\Debug\net8.0\BookStore.DataAccess.dll
+C:\Users\hayu\source\repos\bookStore\bookStoreWeb\bin\Debug\net8.0\BookStore.Models.dll
+C:\Users\hayu\source\repos\bookStore\bookStoreWeb\bin\Debug\net8.0\BookStore.Utility.dll
+C:\Users\hayu\source\repos\bookStore\bookStoreWeb\bin\Debug\net8.0\BookStore.DataAccess.pdb
+C:\Users\hayu\source\repos\bookStore\bookStoreWeb\bin\Debug\net8.0\BookStore.Models.pdb
+C:\Users\hayu\source\repos\bookStore\bookStoreWeb\bin\Debug\net8.0\BookStore.Utility.pdb

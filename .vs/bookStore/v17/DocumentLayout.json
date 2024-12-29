@@ -3,12 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\hayu\\source\\repos\\bookStore\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{823A1454-D85A-4FDB-8886-EB8005A564BA}|bookStoreWeb\\bookStoreWeb.csproj|c:\\users\\hayu\\source\\repos\\bookstore\\bookstoreweb\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{823A1454-D85A-4FDB-8886-EB8005A564BA}|bookStoreWeb\\bookStoreWeb.csproj|solutionrelative:bookstoreweb\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\hayu\\source\\repos\\bookStore\\BookStore.DataAccess\\Migrations\\20241229162257_AddCategoryToDbAndSeedTable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BookStore.DataAccess\\Migrations\\20241229162257_AddCategoryToDbAndSeedTable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{823A1454-D85A-4FDB-8886-EB8005A564BA}|bookStoreWeb\\bookStoreWeb.csproj|c:\\users\\hayu\\source\\repos\\bookstore\\bookstoreweb\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{823A1454-D85A-4FDB-8886-EB8005A564BA}|bookStoreWeb\\bookStoreWeb.csproj|solutionrelative:bookstoreweb\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{823A1454-D85A-4FDB-8886-EB8005A564BA}|bookStoreWeb\\bookStoreWeb.csproj|c:\\users\\hayu\\source\\repos\\bookstore\\bookstoreweb\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{823A1454-D85A-4FDB-8886-EB8005A564BA}|bookStoreWeb\\bookStoreWeb.csproj|solutionrelative:bookstoreweb\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{823A1454-D85A-4FDB-8886-EB8005A564BA}|bookStoreWeb\\bookStoreWeb.csproj|c:\\users\\hayu\\source\\repos\\bookstore\\bookstoreweb\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{823A1454-D85A-4FDB-8886-EB8005A564BA}|bookStoreWeb\\bookStoreWeb.csproj|solutionrelative:bookstoreweb\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{823A1454-D85A-4FDB-8886-EB8005A564BA}|bookStoreWeb\\bookStoreWeb.csproj|c:\\users\\hayu\\source\\repos\\bookstore\\bookstoreweb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{823A1454-D85A-4FDB-8886-EB8005A564BA}|bookStoreWeb\\bookStoreWeb.csproj|solutionrelative:bookstoreweb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AA71C3E-62B9-490F-A0C0-3F8860386E9F}|BookStore.Models\\BookStore.Models.csproj|c:\\users\\hayu\\source\\repos\\bookstore\\bookstore.models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8AA71C3E-62B9-490F-A0C0-3F8860386E9F}|BookStore.Models\\BookStore.Models.csproj|solutionrelative:bookstore.models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{823A1454-D85A-4FDB-8886-EB8005A564BA}|bookStoreWeb\\bookStoreWeb.csproj|c:\\users\\hayu\\source\\repos\\bookstore\\bookstoreweb\\views\\category\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{823A1454-D85A-4FDB-8886-EB8005A564BA}|bookStoreWeb\\bookStoreWeb.csproj|solutionrelative:bookstoreweb\\views\\category\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{823A1454-D85A-4FDB-8886-EB8005A564BA}|bookStoreWeb\\bookStoreWeb.csproj|c:\\users\\hayu\\source\\repos\\bookstore\\bookstoreweb\\views\\category\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -23,8 +39,32 @@
       "RelativeMoniker": "D:0:0:{823A1454-D85A-4FDB-8886-EB8005A564BA}|bookStoreWeb\\bookStoreWeb.csproj|solutionrelative:bookstoreweb\\views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{823A1454-D85A-4FDB-8886-EB8005A564BA}|bookStoreWeb\\bookStoreWeb.csproj|c:\\users\\hayu\\source\\repos\\bookstore\\bookstoreweb\\views\\shared\\_notification.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{823A1454-D85A-4FDB-8886-EB8005A564BA}|bookStoreWeb\\bookStoreWeb.csproj|solutionrelative:bookstoreweb\\views\\shared\\_notification.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{9D66F5E6-A097-4ECA-B05D-4478F1D2B473}|BookStore.DataAccess\\BookStore.DataAccess.csproj|c:\\users\\hayu\\source\\repos\\bookstore\\bookstore.dataaccess\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D66F5E6-A097-4ECA-B05D-4478F1D2B473}|BookStore.DataAccess\\BookStore.DataAccess.csproj|solutionrelative:bookstore.dataaccess\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D66F5E6-A097-4ECA-B05D-4478F1D2B473}|BookStore.DataAccess\\BookStore.DataAccess.csproj|c:\\users\\hayu\\source\\repos\\bookstore\\bookstore.dataaccess\\migrations\\20241224181820_seedcategorytable.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D66F5E6-A097-4ECA-B05D-4478F1D2B473}|BookStore.DataAccess\\BookStore.DataAccess.csproj|solutionrelative:bookstore.dataaccess\\migrations\\20241224181820_seedcategorytable.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D66F5E6-A097-4ECA-B05D-4478F1D2B473}|BookStore.DataAccess\\BookStore.DataAccess.csproj|c:\\users\\hayu\\source\\repos\\bookstore\\bookstore.dataaccess\\migrations\\20241224171608_addcategorytabledb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D66F5E6-A097-4ECA-B05D-4478F1D2B473}|BookStore.DataAccess\\BookStore.DataAccess.csproj|solutionrelative:bookstore.dataaccess\\migrations\\20241224171608_addcategorytabledb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D66F5E6-A097-4ECA-B05D-4478F1D2B473}|BookStore.DataAccess\\BookStore.DataAccess.csproj|c:\\users\\hayu\\source\\repos\\bookstore\\bookstore.dataaccess\\migrations\\20241224181820_seedcategorytable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D66F5E6-A097-4ECA-B05D-4478F1D2B473}|BookStore.DataAccess\\BookStore.DataAccess.csproj|solutionrelative:bookstore.dataaccess\\migrations\\20241224181820_seedcategorytable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D66F5E6-A097-4ECA-B05D-4478F1D2B473}|BookStore.DataAccess\\BookStore.DataAccess.csproj|c:\\users\\hayu\\source\\repos\\bookstore\\bookstore.dataaccess\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D66F5E6-A097-4ECA-B05D-4478F1D2B473}|BookStore.DataAccess\\BookStore.DataAccess.csproj|solutionrelative:bookstore.dataaccess\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D66F5E6-A097-4ECA-B05D-4478F1D2B473}|BookStore.DataAccess\\BookStore.DataAccess.csproj|c:\\users\\hayu\\source\\repos\\bookstore\\bookstore.dataaccess\\migrations\\20241224171608_addcategorytabledb.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D66F5E6-A097-4ECA-B05D-4478F1D2B473}|BookStore.DataAccess\\BookStore.DataAccess.csproj|solutionrelative:bookstore.dataaccess\\migrations\\20241224171608_addcategorytabledb.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AA71C3E-62B9-490F-A0C0-3F8860386E9F}|BookStore.Models\\BookStore.Models.csproj|c:\\users\\hayu\\source\\repos\\bookstore\\bookstore.models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8AA71C3E-62B9-490F-A0C0-3F8860386E9F}|BookStore.Models\\BookStore.Models.csproj|solutionrelative:bookstore.models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -43,79 +83,209 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\hayu\\source\\repos\\bookStore\\bookStoreWeb\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "bookStoreWeb\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\hayu\\source\\repos\\bookStore\\bookStoreWeb\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "bookStoreWeb\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAB4AAAAAAAAAAAAAACoAAAAPAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-27T03:12:11.458Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "_Notification.cshtml",
-              "DocumentMoniker": "C:\\Users\\hayu\\source\\repos\\bookStore\\bookStoreWeb\\Views\\Shared\\_Notification.cshtml",
-              "RelativeDocumentMoniker": "bookStoreWeb\\Views\\Shared\\_Notification.cshtml",
-              "ToolTip": "C:\\Users\\hayu\\source\\repos\\bookStore\\bookStoreWeb\\Views\\Shared\\_Notification.cshtml",
-              "RelativeToolTip": "bookStoreWeb\\Views\\Shared\\_Notification.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABQAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-27T03:03:56.927Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\hayu\\source\\repos\\bookStore\\bookStoreWeb\\Views\\Category\\Index.cshtml",
-              "RelativeDocumentMoniker": "bookStoreWeb\\Views\\Category\\Index.cshtml",
-              "ToolTip": "C:\\Users\\hayu\\source\\repos\\bookStore\\bookStoreWeb\\Views\\Category\\Index.cshtml",
-              "RelativeToolTip": "bookStoreWeb\\Views\\Category\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-27T02:24:34.033Z",
+              "Title": "20241229162257_AddCategoryToDbAndSeedTable.cs",
+              "DocumentMoniker": "C:\\Users\\hayu\\source\\repos\\bookStore\\BookStore.DataAccess\\Migrations\\20241229162257_AddCategoryToDbAndSeedTable.cs",
+              "RelativeDocumentMoniker": "BookStore.DataAccess\\Migrations\\20241229162257_AddCategoryToDbAndSeedTable.cs",
+              "ToolTip": "C:\\Users\\hayu\\source\\repos\\bookStore\\BookStore.DataAccess\\Migrations\\20241229162257_AddCategoryToDbAndSeedTable.cs",
+              "RelativeToolTip": "BookStore.DataAccess\\Migrations\\20241229162257_AddCategoryToDbAndSeedTable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-29T16:22:59.39Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "Edit.cshtml",
-              "DocumentMoniker": "C:\\Users\\hayu\\source\\repos\\bookStore\\bookStoreWeb\\Views\\Category\\Edit.cshtml",
-              "RelativeDocumentMoniker": "bookStoreWeb\\Views\\Category\\Edit.cshtml",
-              "ToolTip": "C:\\Users\\hayu\\source\\repos\\bookStore\\bookStoreWeb\\Views\\Category\\Edit.cshtml",
-              "RelativeToolTip": "bookStoreWeb\\Views\\Category\\Edit.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-27T02:22:32.438Z",
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\hayu\\source\\repos\\bookStore\\bookStoreWeb\\Program.cs",
+              "RelativeDocumentMoniker": "bookStoreWeb\\Program.cs",
+              "ToolTip": "C:\\Users\\hayu\\source\\repos\\bookStore\\bookStoreWeb\\Program.cs",
+              "RelativeToolTip": "bookStoreWeb\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-29T16:10:32.926Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\hayu\\source\\repos\\bookStore\\bookStoreWeb\\Views\\Category\\Create.cshtml",
+              "RelativeDocumentMoniker": "bookStoreWeb\\Views\\Category\\Create.cshtml",
+              "ToolTip": "C:\\Users\\hayu\\source\\repos\\bookStore\\bookStoreWeb\\Views\\Category\\Create.cshtml",
+              "RelativeToolTip": "bookStoreWeb\\Views\\Category\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-29T16:09:53.888Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "Delete.cshtml",
               "DocumentMoniker": "C:\\Users\\hayu\\source\\repos\\bookStore\\bookStoreWeb\\Views\\Category\\Delete.cshtml",
               "RelativeDocumentMoniker": "bookStoreWeb\\Views\\Category\\Delete.cshtml",
               "ToolTip": "C:\\Users\\hayu\\source\\repos\\bookStore\\bookStoreWeb\\Views\\Category\\Delete.cshtml",
               "RelativeToolTip": "bookStoreWeb\\Views\\Category\\Delete.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAABQAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-27T02:22:16.956Z",
+              "WhenOpened": "2024-12-29T16:09:41.444Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\hayu\\source\\repos\\bookStore\\bookStoreWeb\\Views\\Category\\Edit.cshtml",
+              "RelativeDocumentMoniker": "bookStoreWeb\\Views\\Category\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\hayu\\source\\repos\\bookStore\\bookStoreWeb\\Views\\Category\\Edit.cshtml",
+              "RelativeToolTip": "bookStoreWeb\\Views\\Category\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-29T16:09:28.996Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\hayu\\source\\repos\\bookStore\\bookStoreWeb\\Views\\Category\\Index.cshtml",
+              "RelativeDocumentMoniker": "bookStoreWeb\\Views\\Category\\Index.cshtml",
+              "ToolTip": "C:\\Users\\hayu\\source\\repos\\bookStore\\bookStoreWeb\\Views\\Category\\Index.cshtml",
+              "RelativeToolTip": "bookStoreWeb\\Views\\Category\\Index.cshtml",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAAAAAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-29T16:09:21.694Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "CategoryController.cs",
-              "DocumentMoniker": "C:\\Users\\hayu\\source\\repos\\bookStore\\bookStoreWeb\\Controllers\\CategoryController.cs",
-              "RelativeDocumentMoniker": "bookStoreWeb\\Controllers\\CategoryController.cs",
-              "ToolTip": "C:\\Users\\hayu\\source\\repos\\bookStore\\bookStoreWeb\\Controllers\\CategoryController.cs",
-              "RelativeToolTip": "bookStoreWeb\\Controllers\\CategoryController.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAQwDAAAAAhAAAAAAAAAA==",
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "C:\\Users\\hayu\\source\\repos\\bookStore\\bookStoreWeb\\Views\\Shared\\Error.cshtml",
+              "RelativeDocumentMoniker": "bookStoreWeb\\Views\\Shared\\Error.cshtml",
+              "ToolTip": "C:\\Users\\hayu\\source\\repos\\bookStore\\bookStoreWeb\\Views\\Shared\\Error.cshtml",
+              "RelativeToolTip": "bookStoreWeb\\Views\\Shared\\Error.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-29T16:09:14.809Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\hayu\\source\\repos\\bookStore\\bookStoreWeb\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "bookStoreWeb\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\hayu\\source\\repos\\bookStore\\bookStoreWeb\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "bookStoreWeb\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-29T16:08:39.635Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\hayu\\source\\repos\\bookStore\\BookStore.DataAccess\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "BookStore.DataAccess\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\hayu\\source\\repos\\bookStore\\BookStore.DataAccess\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "BookStore.DataAccess\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-27T02:14:35.719Z",
+              "WhenOpened": "2024-12-29T16:01:41.846Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\hayu\\source\\repos\\bookStore\\BookStore.Models\\Category.cs",
+              "RelativeDocumentMoniker": "BookStore.Models\\Category.cs",
+              "ToolTip": "C:\\Users\\hayu\\source\\repos\\bookStore\\BookStore.Models\\Category.cs",
+              "RelativeToolTip": "BookStore.Models\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwA0AAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-29T15:43:33.479Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "20241224181820_SeedCategoryTable.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\hayu\\source\\repos\\bookStore\\BookStore.DataAccess\\Migrations\\20241224181820_SeedCategoryTable.Designer.cs",
+              "RelativeDocumentMoniker": "BookStore.DataAccess\\Migrations\\20241224181820_SeedCategoryTable.Designer.cs",
+              "ToolTip": "C:\\Users\\hayu\\source\\repos\\bookStore\\BookStore.DataAccess\\Migrations\\20241224181820_SeedCategoryTable.Designer.cs",
+              "RelativeToolTip": "BookStore.DataAccess\\Migrations\\20241224181820_SeedCategoryTable.Designer.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAowAoAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-29T15:40:08.05Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ApplicationDbContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\hayu\\source\\repos\\bookStore\\BookStore.DataAccess\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "BookStore.DataAccess\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\hayu\\source\\repos\\bookStore\\BookStore.DataAccess\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "RelativeToolTip": "BookStore.DataAccess\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-29T15:31:21.157Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "20241224181820_SeedCategoryTable.cs",
+              "DocumentMoniker": "C:\\Users\\hayu\\source\\repos\\bookStore\\BookStore.DataAccess\\Migrations\\20241224181820_SeedCategoryTable.cs",
+              "RelativeDocumentMoniker": "BookStore.DataAccess\\Migrations\\20241224181820_SeedCategoryTable.cs",
+              "ToolTip": "C:\\Users\\hayu\\source\\repos\\bookStore\\BookStore.DataAccess\\Migrations\\20241224181820_SeedCategoryTable.cs",
+              "RelativeToolTip": "BookStore.DataAccess\\Migrations\\20241224181820_SeedCategoryTable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-29T15:31:16.972Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "20241224171608_AddCategoryTableDb.cs",
+              "DocumentMoniker": "C:\\Users\\hayu\\source\\repos\\bookStore\\BookStore.DataAccess\\Migrations\\20241224171608_AddCategoryTableDb.cs",
+              "RelativeDocumentMoniker": "BookStore.DataAccess\\Migrations\\20241224171608_AddCategoryTableDb.cs",
+              "ToolTip": "C:\\Users\\hayu\\source\\repos\\bookStore\\BookStore.DataAccess\\Migrations\\20241224171608_AddCategoryTableDb.cs",
+              "RelativeToolTip": "BookStore.DataAccess\\Migrations\\20241224171608_AddCategoryTableDb.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-29T15:29:47.989Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "20241224171608_AddCategoryTableDb.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\hayu\\source\\repos\\bookStore\\BookStore.DataAccess\\Migrations\\20241224171608_AddCategoryTableDb.Designer.cs",
+              "RelativeDocumentMoniker": "BookStore.DataAccess\\Migrations\\20241224171608_AddCategoryTableDb.Designer.cs",
+              "ToolTip": "C:\\Users\\hayu\\source\\repos\\bookStore\\BookStore.DataAccess\\Migrations\\20241224171608_AddCategoryTableDb.Designer.cs",
+              "RelativeToolTip": "BookStore.DataAccess\\Migrations\\20241224171608_AddCategoryTableDb.Designer.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAkwAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-29T15:38:45.243Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\hayu\\source\\repos\\bookStore\\BookStore.Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "BookStore.Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\hayu\\source\\repos\\bookStore\\BookStore.Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "BookStore.Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-29T15:45:49.187Z",
               "EditorCaption": ""
             }
           ]

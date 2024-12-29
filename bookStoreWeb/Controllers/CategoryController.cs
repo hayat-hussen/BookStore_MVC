@@ -1,5 +1,5 @@
-﻿using bookStoreWeb.Data; // Importing the data context for database operations
-using bookStoreWeb.Models; // Importing the model classes
+﻿using BookStore.DataAccess.Data; // Importing the data context for database operations
+using BookStore.Models;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore; // Importing ASP.NET Core MVC
 

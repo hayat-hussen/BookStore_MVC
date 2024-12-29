@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "m6HJxxKpbBPOppIyc4kW4MKwhMlk8KHcmH6DONjO0Ac=",
+  "Hash": "uugW0L9BbqImP1wp7kb8KC818giUUZE+iI6bbrVnKvo=",
   "Source": "bookStoreWeb",
   "BasePath": "_content/bookStoreWeb",
   "Mode": "Default",
@@ -73,8 +73,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "c2tiyv64ts",
-      "Integrity": "pAGv4ietcJNk/EwsQZ5BN9+K4MuNYS2a9wl4Jw+q9D0=",
+      "Fingerprint": "bu42x1d8ng",
+      "Integrity": "A7rGIe1a3UY4HtSJtFT9lZk2XEfLXF57OWk3Smmr4pk=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\site.css"
@@ -136,8 +136,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "83z3xecpjr",
-      "Integrity": "nHLSG64qKEWaZvEOT9tsnhYMm6wEgFPbieRL3HT+aek=",
+      "Fingerprint": "c6r5ggnv9v",
+      "Integrity": "1JgBMJVadjJBrKAuuvIwHnNJl3eVkzfeWGLKOT7uk3M=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css"
@@ -1485,7 +1485,7 @@
       ]
     },
     {
-      "Route": "css/site.c2tiyv64ts.css",
+      "Route": "css/site.bu42x1d8ng.css",
       "AssetFile": "C:\\Users\\hayu\\source\\repos\\bookStore\\bookStoreWeb\\wwwroot\\css\\site.css",
       "Selectors": [],
       "ResponseHeaders": [
@@ -1495,7 +1495,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "362"
+          "Value": "11181"
         },
         {
           "Name": "Content-Type",
@@ -1503,11 +1503,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"pAGv4ietcJNk/EwsQZ5BN9+K4MuNYS2a9wl4Jw+q9D0=\""
+          "Value": "\"A7rGIe1a3UY4HtSJtFT9lZk2XEfLXF57OWk3Smmr4pk=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 19 Dec 2024 18:59:13 GMT"
+          "Value": "Sun, 29 Dec 2024 14:43:11 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1517,7 +1517,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "c2tiyv64ts"
+          "Value": "bu42x1d8ng"
         },
         {
           "Name": "label",
@@ -1525,7 +1525,7 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-pAGv4ietcJNk/EwsQZ5BN9+K4MuNYS2a9wl4Jw+q9D0="
+          "Value": "sha256-A7rGIe1a3UY4HtSJtFT9lZk2XEfLXF57OWk3Smmr4pk="
         }
       ]
     },
@@ -1540,7 +1540,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "362"
+          "Value": "11181"
         },
         {
           "Name": "Content-Type",
@@ -1548,11 +1548,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"pAGv4ietcJNk/EwsQZ5BN9+K4MuNYS2a9wl4Jw+q9D0=\""
+          "Value": "\"A7rGIe1a3UY4HtSJtFT9lZk2XEfLXF57OWk3Smmr4pk=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 19 Dec 2024 18:59:13 GMT"
+          "Value": "Sun, 29 Dec 2024 14:43:11 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1562,7 +1562,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-pAGv4ietcJNk/EwsQZ5BN9+K4MuNYS2a9wl4Jw+q9D0="
+          "Value": "sha256-A7rGIe1a3UY4HtSJtFT9lZk2XEfLXF57OWk3Smmr4pk="
         }
       ]
     },
@@ -1731,7 +1731,7 @@
       ]
     },
     {
-      "Route": "lib/bootstrap/dist/css/bootstrap.83z3xecpjr.css",
+      "Route": "lib/bootstrap/dist/css/bootstrap.c6r5ggnv9v.css",
       "AssetFile": "C:\\Users\\hayu\\source\\repos\\bookStore\\bookStoreWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "Selectors": [],
       "ResponseHeaders": [
@@ -1741,7 +1741,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "300986"
+          "Value": "307185"
         },
         {
           "Name": "Content-Type",
@@ -1749,11 +1749,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"nHLSG64qKEWaZvEOT9tsnhYMm6wEgFPbieRL3HT+aek=\""
+          "Value": "\"1JgBMJVadjJBrKAuuvIwHnNJl3eVkzfeWGLKOT7uk3M=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 25 Dec 2024 19:02:17 GMT"
+          "Value": "Sun, 29 Dec 2024 14:43:57 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1763,7 +1763,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "83z3xecpjr"
+          "Value": "c6r5ggnv9v"
         },
         {
           "Name": "label",
@@ -1771,7 +1771,7 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-nHLSG64qKEWaZvEOT9tsnhYMm6wEgFPbieRL3HT+aek="
+          "Value": "sha256-1JgBMJVadjJBrKAuuvIwHnNJl3eVkzfeWGLKOT7uk3M="
         }
       ]
     },
@@ -1786,7 +1786,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "300986"
+          "Value": "307185"
         },
         {
           "Name": "Content-Type",
@@ -1794,11 +1794,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"nHLSG64qKEWaZvEOT9tsnhYMm6wEgFPbieRL3HT+aek=\""
+          "Value": "\"1JgBMJVadjJBrKAuuvIwHnNJl3eVkzfeWGLKOT7uk3M=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 25 Dec 2024 19:02:17 GMT"
+          "Value": "Sun, 29 Dec 2024 14:43:57 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1808,7 +1808,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-nHLSG64qKEWaZvEOT9tsnhYMm6wEgFPbieRL3HT+aek="
+          "Value": "sha256-1JgBMJVadjJBrKAuuvIwHnNJl3eVkzfeWGLKOT7uk3M="
         }
       ]
     },
