@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "uugW0L9BbqImP1wp7kb8KC818giUUZE+iI6bbrVnKvo=",
+  "Hash": "h/zoLjNCA7/YIfhc8+Qo0olo7V+0exWPOXtlrFXVlJs=",
   "Source": "bookStoreWeb",
   "BasePath": "_content/bookStoreWeb",
   "Mode": "Default",
@@ -31,8 +31,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "ScopedCss",
       "AssetTraitValue": "ApplicationBundle",
-      "Fingerprint": "ivg8qyf88u",
-      "Integrity": "kubBKaPPoHH1Rlzk9siEU0lMJXML8VcT2L4f4tgnTxE=",
+      "Fingerprint": "s6pv3y2l5g",
+      "Integrity": "vGO0tdQcQKTYxW+sXNzjWZzy+WJN9UoZL5CMG9r1Aaw=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\hayu\\source\\repos\\bookStore\\bookStoreWeb\\obj\\Debug\\net8.0\\scopedcss\\bundle\\bookStoreWeb.styles.css"
@@ -52,8 +52,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "ScopedCss",
       "AssetTraitValue": "ProjectBundle",
-      "Fingerprint": "ivg8qyf88u",
-      "Integrity": "kubBKaPPoHH1Rlzk9siEU0lMJXML8VcT2L4f4tgnTxE=",
+      "Fingerprint": "s6pv3y2l5g",
+      "Integrity": "vGO0tdQcQKTYxW+sXNzjWZzy+WJN9UoZL5CMG9r1Aaw=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\hayu\\source\\repos\\bookStore\\bookStoreWeb\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\bookStoreWeb.bundle.scp.css"
@@ -1331,7 +1331,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1130"
+          "Value": "1091"
         },
         {
           "Name": "Content-Type",
@@ -1339,11 +1339,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"kubBKaPPoHH1Rlzk9siEU0lMJXML8VcT2L4f4tgnTxE=\""
+          "Value": "\"vGO0tdQcQKTYxW+sXNzjWZzy+WJN9UoZL5CMG9r1Aaw=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 19 Dec 2024 19:29:02 GMT"
+          "Value": "Mon, 30 Dec 2024 21:40:16 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1353,12 +1353,12 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-kubBKaPPoHH1Rlzk9siEU0lMJXML8VcT2L4f4tgnTxE="
+          "Value": "sha256-vGO0tdQcQKTYxW+sXNzjWZzy+WJN9UoZL5CMG9r1Aaw="
         }
       ]
     },
     {
-      "Route": "bookStoreWeb.ivg8qyf88u.bundle.scp.css",
+      "Route": "bookStoreWeb.s6pv3y2l5g.bundle.scp.css",
       "AssetFile": "C:\\Users\\hayu\\source\\repos\\bookStore\\bookStoreWeb\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\bookStoreWeb.bundle.scp.css",
       "Selectors": [],
       "ResponseHeaders": [
@@ -1368,7 +1368,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1130"
+          "Value": "1091"
         },
         {
           "Name": "Content-Type",
@@ -1376,11 +1376,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"kubBKaPPoHH1Rlzk9siEU0lMJXML8VcT2L4f4tgnTxE=\""
+          "Value": "\"vGO0tdQcQKTYxW+sXNzjWZzy+WJN9UoZL5CMG9r1Aaw=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 19 Dec 2024 19:29:02 GMT"
+          "Value": "Mon, 30 Dec 2024 21:40:16 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1390,7 +1390,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "ivg8qyf88u"
+          "Value": "s6pv3y2l5g"
         },
         {
           "Name": "label",
@@ -1398,12 +1398,12 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-kubBKaPPoHH1Rlzk9siEU0lMJXML8VcT2L4f4tgnTxE="
+          "Value": "sha256-vGO0tdQcQKTYxW+sXNzjWZzy+WJN9UoZL5CMG9r1Aaw="
         }
       ]
     },
     {
-      "Route": "bookStoreWeb.ivg8qyf88u.styles.css",
+      "Route": "bookStoreWeb.s6pv3y2l5g.styles.css",
       "AssetFile": "C:\\Users\\hayu\\source\\repos\\bookStore\\bookStoreWeb\\obj\\Debug\\net8.0\\scopedcss\\bundle\\bookStoreWeb.styles.css",
       "Selectors": [],
       "ResponseHeaders": [
@@ -1413,7 +1413,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1130"
+          "Value": "1091"
         },
         {
           "Name": "Content-Type",
@@ -1421,11 +1421,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"kubBKaPPoHH1Rlzk9siEU0lMJXML8VcT2L4f4tgnTxE=\""
+          "Value": "\"vGO0tdQcQKTYxW+sXNzjWZzy+WJN9UoZL5CMG9r1Aaw=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 19 Dec 2024 19:29:02 GMT"
+          "Value": "Mon, 30 Dec 2024 21:40:16 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1435,7 +1435,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "ivg8qyf88u"
+          "Value": "s6pv3y2l5g"
         },
         {
           "Name": "label",
@@ -1443,7 +1443,7 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-kubBKaPPoHH1Rlzk9siEU0lMJXML8VcT2L4f4tgnTxE="
+          "Value": "sha256-vGO0tdQcQKTYxW+sXNzjWZzy+WJN9UoZL5CMG9r1Aaw="
         }
       ]
     },
@@ -1458,7 +1458,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1130"
+          "Value": "1091"
         },
         {
           "Name": "Content-Type",
@@ -1466,11 +1466,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"kubBKaPPoHH1Rlzk9siEU0lMJXML8VcT2L4f4tgnTxE=\""
+          "Value": "\"vGO0tdQcQKTYxW+sXNzjWZzy+WJN9UoZL5CMG9r1Aaw=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 19 Dec 2024 19:29:02 GMT"
+          "Value": "Mon, 30 Dec 2024 21:40:16 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1480,7 +1480,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-kubBKaPPoHH1Rlzk9siEU0lMJXML8VcT2L4f4tgnTxE="
+          "Value": "sha256-vGO0tdQcQKTYxW+sXNzjWZzy+WJN9UoZL5CMG9r1Aaw="
         }
       ]
     },

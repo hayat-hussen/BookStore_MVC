@@ -2,8 +2,10 @@ using System.Diagnostics;
 using BookStore.Models;
 using Microsoft.AspNetCore.Mvc;
 
-namespace bookStoreWeb.Controllers
+namespace bookStoreWeb.Areas.Customer.Controllers
 {
+    [Area("Customer")]
+
     public class HomeController : Controller
     {
         private readonly ILogger<HomeController> _logger;
