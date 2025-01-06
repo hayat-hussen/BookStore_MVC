@@ -1,5 +1,6 @@
 ﻿using BookStore.DataAccess.Data;
 using BookStore.DataAccess.Repository.IRepository;
+using BookStore.Models;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -12,12 +13,16 @@ namespace BookStore.DataAccess.Repository
     {
         private ApplicationDbContext _db; // Instance of ApplicationDbContext for database operations
         public ICategoryRepository Category { get; private set; }
+        public IProductRepository Product { get; private set; }
+
 
         // Constructor that initializes the CategoryRepository with the ApplicationDbContext
-        public UnitOfWork(ApplicationDbContext db) 
+        public UnitOfWork(ApplicationDbContext db)
         {
             _db = db; // Assign the provided ApplicationDbContext to _db
             Category = new CategoryRepository(_db);
+            Product = new ProductRepository(_db);
+
         }
 
         public void Save()

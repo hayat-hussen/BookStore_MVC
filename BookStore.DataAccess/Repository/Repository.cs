@@ -45,7 +45,7 @@ namespace BookStore.DataAccess.Repository
         }
 
         // Method to get the first entity or default (not yet implemented)
-       
+
 
         // Method to remove an entity from the database
         public void Remove(T entity)

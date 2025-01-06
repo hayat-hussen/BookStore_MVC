@@ -22,7 +22,7 @@ namespace BookStore.DataAccess.Repository
         }
 
         // Method to save changes to the database
-        
+
 
         // Method to update an existing category
         public void Update(Category obj)
