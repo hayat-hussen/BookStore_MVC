@@ -16,5 +16,7 @@ namespace BookStore.Models // Namespace for the model
         [DisplayName("Display Order")] // Display name
         [Range(1, 100)] // Value must be between 1 and 100
         public int DisplayOrder { get; set; }
+
+        public ICollection<Product> Products { get; set; } = new List<Product>();
     }
 }

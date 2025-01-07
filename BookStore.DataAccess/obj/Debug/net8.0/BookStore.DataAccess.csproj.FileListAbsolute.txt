@@ -1,9 +1,3 @@
-C:\Users\hayu\source\repos\bookStore\BookStore.DataAccess\obj\Debug\net8.0\BookStore.DataAccess.csproj.AssemblyReference.cache
-C:\Users\hayu\source\repos\bookStore\BookStore.DataAccess\obj\Debug\net8.0\BookStore.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\hayu\source\repos\bookStore\BookStore.DataAccess\obj\Debug\net8.0\BookStore.DataAccess.AssemblyInfoInputs.cache
-C:\Users\hayu\source\repos\bookStore\BookStore.DataAccess\obj\Debug\net8.0\BookStore.DataAccess.AssemblyInfo.cs
-C:\Users\hayu\source\repos\bookStore\BookStore.DataAccess\obj\Debug\net8.0\BookStore.DataAccess.csproj.CoreCompileInputs.cache
-C:\Users\hayu\source\repos\bookStore\BookStore.DataAccess\obj\Debug\net8.0\BookStore.DataAccess.sourcelink.json
 C:\Users\hayu\source\repos\bookStore\BookStore.DataAccess\bin\Debug\net8.0\BookStore.DataAccess.deps.json
 C:\Users\hayu\source\repos\bookStore\BookStore.DataAccess\bin\Debug\net8.0\BookStore.DataAccess.runtimeconfig.json
 C:\Users\hayu\source\repos\bookStore\BookStore.DataAccess\bin\Debug\net8.0\BookStore.DataAccess.dll
@@ -12,6 +6,12 @@ C:\Users\hayu\source\repos\bookStore\BookStore.DataAccess\bin\Debug\net8.0\BookS
 C:\Users\hayu\source\repos\bookStore\BookStore.DataAccess\bin\Debug\net8.0\BookStore.Utility.dll
 C:\Users\hayu\source\repos\bookStore\BookStore.DataAccess\bin\Debug\net8.0\BookStore.Models.pdb
 C:\Users\hayu\source\repos\bookStore\BookStore.DataAccess\bin\Debug\net8.0\BookStore.Utility.pdb
+C:\Users\hayu\source\repos\bookStore\BookStore.DataAccess\obj\Debug\net8.0\BookStore.DataAccess.csproj.AssemblyReference.cache
+C:\Users\hayu\source\repos\bookStore\BookStore.DataAccess\obj\Debug\net8.0\BookStore.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hayu\source\repos\bookStore\BookStore.DataAccess\obj\Debug\net8.0\BookStore.DataAccess.AssemblyInfoInputs.cache
+C:\Users\hayu\source\repos\bookStore\BookStore.DataAccess\obj\Debug\net8.0\BookStore.DataAccess.AssemblyInfo.cs
+C:\Users\hayu\source\repos\bookStore\BookStore.DataAccess\obj\Debug\net8.0\BookStore.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\hayu\source\repos\bookStore\BookStore.DataAccess\obj\Debug\net8.0\BookStore.DataAccess.sourcelink.json
 C:\Users\hayu\source\repos\bookStore\BookStore.DataAccess\obj\Debug\net8.0\BookStor.8FF6026C.Up2Date
 C:\Users\hayu\source\repos\bookStore\BookStore.DataAccess\obj\Debug\net8.0\BookStore.DataAccess.dll
 C:\Users\hayu\source\repos\bookStore\BookStore.DataAccess\obj\Debug\net8.0\refint\BookStore.DataAccess.dll

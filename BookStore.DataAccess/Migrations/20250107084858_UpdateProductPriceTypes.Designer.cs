@@ -11,8 +11,8 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 namespace BookStore.DataAccess.Migrations
 {
     [DbContext(typeof(ApplicationDbContext))]
-    [Migration("20250106183650_AddProductToDb")]
-    partial class AddProductToDb
+    [Migration("20250107084858_UpdateProductPriceTypes")]
+    partial class UpdateProductPriceTypes
     {
         /// <inheritdoc />
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
@@ -77,6 +77,9 @@ namespace BookStore.DataAccess.Migrations
                         .IsRequired()
                         .HasColumnType("nvarchar(max)");
 
+                    b.Property<int>("CategoryId")
+                        .HasColumnType("int");
+
                     b.Property<string>("Description")
                         .IsRequired()
                         .HasColumnType("nvarchar(max)");
@@ -85,23 +88,29 @@ namespace BookStore.DataAccess.Migrations
                         .IsRequired()
                         .HasColumnType("nvarchar(max)");
 
-                    b.Property<double>("ListPrice")
-                        .HasColumnType("float");
+                    b.Property<string>("ImageUrl")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
 
-                    b.Property<double>("Price")
-                        .HasColumnType("float");
+                    b.Property<decimal>("ListPrice")
+                        .HasColumnType("decimal(18,2)");
 
-                    b.Property<double>("Price100")
-                        .HasColumnType("float");
+                    b.Property<decimal>("Price")
+                        .HasColumnType("decimal(18,2)");
 
-                    b.Property<double>("Price50")
-                        .HasColumnType("float");
+                    b.Property<decimal>("Price100")
+                        .HasColumnType("decimal(18,2)");
+
+                    b.Property<decimal>("Price50")
+                        .HasColumnType("decimal(18,2)");
 
                     b.Property<string>("Title")
                         .IsRequired()
                         .HasColumnType("nvarchar(max)");
 
                     b.HasKey("Id");
+
+                    b.HasIndex("CategoryId");
 
                     b.ToTable("Products");
 
@@ -110,74 +119,102 @@ namespace BookStore.DataAccess.Migrations
                         {
                             Id = 1,
                             Author = "Billy Spark",
+                            CategoryId = 5,
                             Description = "Praesent vitae sodales libero. Praesent molestie orci augue, vitae euismod velit sollicitudin ac. Praesent vestibulum facilisis nibh ut ultricies.\r\n\r\nNunc malesuada viverra ipsum sit amet tincidunt. ",
                             ISBN = "SWD9999001",
-                            ListPrice = 99.0,
-                            Price = 90.0,
-                            Price100 = 80.0,
-                            Price50 = 85.0,
+                            ImageUrl = "",
+                            ListPrice = 99m,
+                            Price = 90m,
+                            Price100 = 80m,
+                            Price50 = 85m,
                             Title = "Fortune of Time"
                         },
                         new
                         {
                             Id = 2,
                             Author = "Nancy Hoover",
+                            CategoryId = 7,
                             Description = "Praesent vitae sodales libero. Praesent molestie orci augue, vitae euismod velit sollicitudin ac. Praesent vestibulum facilisis nibh ut ultricies.\r\n\r\nNunc malesuada viverra ipsum sit amet tincidunt. ",
                             ISBN = "CAW777777701",
-                            ListPrice = 40.0,
-                            Price = 30.0,
-                            Price100 = 20.0,
-                            Price50 = 25.0,
+                            ImageUrl = "",
+                            ListPrice = 40m,
+                            Price = 30m,
+                            Price100 = 20m,
+                            Price50 = 25m,
                             Title = "Dark Skies"
                         },
                         new
                         {
                             Id = 3,
                             Author = "Julian Button",
+                            CategoryId = 5,
                             Description = "Praesent vitae sodales libero. Praesent molestie orci augue, vitae euismod velit sollicitudin ac. Praesent vestibulum facilisis nibh ut ultricies.\r\n\r\nNunc malesuada viverra ipsum sit amet tincidunt. ",
                             ISBN = "RITO5555501",
-                            ListPrice = 55.0,
-                            Price = 50.0,
-                            Price100 = 35.0,
-                            Price50 = 40.0,
+                            ImageUrl = "",
+                            ListPrice = 55m,
+                            Price = 50m,
+                            Price100 = 35m,
+                            Price50 = 40m,
                             Title = "Vanish in the Sunset"
                         },
                         new
                         {
                             Id = 4,
                             Author = "Abby Muscles",
+                            CategoryId = 7,
                             Description = "Praesent vitae sodales libero. Praesent molestie orci augue, vitae euismod velit sollicitudin ac. Praesent vestibulum facilisis nibh ut ultricies.\r\n\r\nNunc malesuada viverra ipsum sit amet tincidunt. ",
                             ISBN = "WS3333333301",
-                            ListPrice = 70.0,
-                            Price = 65.0,
-                            Price100 = 55.0,
-                            Price50 = 60.0,
+                            ImageUrl = "",
+                            ListPrice = 70m,
+                            Price = 65m,
+                            Price100 = 55m,
+                            Price50 = 60m,
                             Title = "Cotton Candy"
                         },
                         new
                         {
                             Id = 5,
                             Author = "Ron Parker",
+                            CategoryId = 5,
                             Description = "Praesent vitae sodales libero. Praesent molestie orci augue, vitae euismod velit sollicitudin ac. Praesent vestibulum facilisis nibh ut ultricies.\r\n\r\nNunc malesuada viverra ipsum sit amet tincidunt. ",
                             ISBN = "SOTJ1111111101",
-                            ListPrice = 30.0,
-                            Price = 27.0,
-                            Price100 = 20.0,
-                            Price50 = 25.0,
+                            ImageUrl = "",
+                            ListPrice = 30m,
+                            Price = 27m,
+                            Price100 = 20m,
+                            Price50 = 25m,
                             Title = "Rock in the Ocean"
                         },
                         new
                         {
                             Id = 6,
                             Author = "Laura Phantom",
+                            CategoryId = 7,
                             Description = "Praesent vitae sodales libero. Praesent molestie orci augue, vitae euismod velit sollicitudin ac. Praesent vestibulum facilisis nibh ut ultricies.\r\n\r\nNunc malesuada viverra ipsum sit amet tincidunt. ",
                             ISBN = "FOT000000001",
-                            ListPrice = 25.0,
-                            Price = 23.0,
-                            Price100 = 20.0,
-                            Price50 = 22.0,
+                            ImageUrl = "",
+                            ListPrice = 25m,
+                            Price = 23m,
+                            Price100 = 20m,
+                            Price50 = 22m,
                             Title = "Leaves and Wonders"
                         });
+                });
+
+            modelBuilder.Entity("BookStore.Models.Product", b =>
+                {
+                    b.HasOne("BookStore.Models.Category", "Category")
+                        .WithMany("Products")
+                        .HasForeignKey("CategoryId")
+                        .OnDelete(DeleteBehavior.Cascade)
+                        .IsRequired();
+
+                    b.Navigation("Category");
+                });
+
+            modelBuilder.Entity("BookStore.Models.Category", b =>
+                {
+                    b.Navigation("Products");
                 });
 #pragma warning restore 612, 618
         }
