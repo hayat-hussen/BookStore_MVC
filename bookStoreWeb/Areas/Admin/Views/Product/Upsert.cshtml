@@ -1,0 +1,144 @@
+﻿@using BookStore.Models
+@model ProductVM
+
+<div class="card shadow border my-4">
+    <div class="card-header bg-secondary bg-gradient ml-0 py-3">
+        <div class="row">
+            <div class="col-12 text-center">
+                <h2 class="text-white py-2">@(Model.Product.Id!=0? "Update":"Create") Product</h2> <!-- Form title -->
+            </div>
+        </div>
+    </div>
+    <div class="card-body p-4">
+        <!-- Fixed the class name here -->
+        <form method="post" class="row" enctype="multipart/form-data">
+            <input  asp-for="Product.Id" hidden/>
+            <input asp-for="Product.ImageUrl" hidden />
+
+            <div class="row">
+                <div class="col-10">
+                    <div class="border p-3 ">
+                        <!-- Container for the form -->
+
+
+                        <div class="form-floating py-2 col-12">
+                            <input asp-for="Product.Title" class="form-control border-0 shadow" /> <!-- Input for Product name -->
+
+                            <label asp-for="Product.Title" class="ms-2"></label> <!-- Label for Name field -->
+                            <span asp-validation-for="Product.Title" class="text-danger"></span> <!-- Validation message for Name -->
+                        </div>
+
+                        <div class="py-2 col-12">
+                            <label asp-for="Product.Description" class="ms-2 text-muted"></label> <!-- Label for Display Order field -->
+
+                            <textarea id="mytextarea" asp-for="Product.Description" class="form-control border-0 shadow"></textarea>
+
+                            <span asp-validation-for="Product.Description" class="text-danger"></span> <!-- Validation message for Display Order -->
+                        </div>
+
+                        <div class="form-floating py-2 col-12">
+                            <input asp-for="Product.ISBN" class="form-control border-0 shadow" /> <!-- Input for Product name -->
+
+                            <label asp-for="Product.ISBN" class="ms-2"></label> <!-- Label for Name field -->
+                            <span asp-validation-for="Product.ISBN" class="text-danger"></span> <!-- Validation message for Name -->
+                        </div>
+
+                        <div class="form-floating py-2 col-12">
+                            <input asp-for="Product.Author" class="form-control border-0 shadow" /> <!-- Input for display order -->
+                            <label asp-for="Product.Author" class="ms-2"></label> <!-- Label for Display Order field -->
+
+                            <span asp-validation-for="Product.Author" class="text-danger"></span> <!-- Validation message for Display Order -->
+                        </div>
+                        <div class="form-floating py-2 col-12">
+                            <input asp-for="Product.ListPrice" class="form-control border-0 shadow" /> <!-- Input for Product name -->
+
+                            <label asp-for="Product.ListPrice" class="ms-2"></label> <!-- Label for Name field -->
+                            <span asp-validation-for="Product.ListPrice" class="text-danger"></span> <!-- Validation message for Name -->
+                        </div>
+
+                        <div class="form-floating py-2 col-12">
+                            <input asp-for="Product.Price" class="form-control border-0 shadow" /> <!-- Input for display order -->
+                            <label asp-for="Product.Price" class="ms-2"></label> <!-- Label for Display Order field -->
+
+                            <span asp-validation-for="Product.Price" class="text-danger"></span> <!-- Validation message for Display Order -->
+                        </div>
+
+                        <div class="form-floating py-2 col-12">
+                            <input asp-for="Product.Price50" class="form-control border-0 shadow" /> <!-- Input for Product name -->
+
+                            <label asp-for="Product.Price50" class="ms-2"></label> <!-- Label for Name field -->
+                            <span asp-validation-for="Product.Price50" class="text-danger"></span> <!-- Validation message for Name -->
+                        </div>
+
+                        <div class="form-floating py-2 col-12">
+                            <input asp-for="Product.Price100" class="form-control border-0 shadow" /> <!-- Input for display order -->
+                            <label asp-for="Product.Price100" class="ms-2"></label> <!-- Label for Display Order field -->
+
+                            <span asp-validation-for="Product.Price100" class="text-danger"></span> <!-- Validation message for Display Order -->
+                        </div>
+                        <div class="form-floating py-2 col-12">
+                            <input type="file" name="file" class="form-control border-0 shadow" /> <!-- Input for display order -->
+                            <label asp-for="Product.ImageUrl" class="ms-2"></label> <!-- Label for Display Order field -->
+
+                        </div>
+                        <div class="form-floating py-2 col-12">
+                            <!--  <select asp-for="CategoryId" asp-items="ViewBag.CategoryList" class="form-select border-0 shadow"> -->
+
+                            <select asp-for="@Model.Product.CategoryId" asp-items="@Model.CategoryList" class="form-select border-0 shadow">
+                                <option disabled selected>--Select CategoryId</option>
+                            </select><!-- Input for display order -->
+                            <label asp-for="Product.CategoryId" class="ms-2"></label> <!-- Label for Display Order field -->
+
+                            <span asp-validation-for="Product.CategoryId" class="text-danger"></span> <!-- Validation message for Display Order -->
+                        </div>
+                        <div class="row pt-2">
+                            <div class="col-6 col-md-3">
+                                <!-- update-->
+                                @if (Model.Product.Id != 0)
+                                {
+                                    <button type="submit" class="btn btn-primary form-control">Update</button> <!-- Submit button -->
+                                }
+                                else
+                                {
+                                    <button type="submit" class="btn btn-primary form-control">Create</button> <!-- Submit button -->
+                                }
+                            </div>
+                            <div class="col-6 col-md-3">
+                                <a asp-controller="Product" asp-action="Index" class="btn btn-outline-primary form-control">Back To List</a> <!-- Link to go back -->
+                            </div>
+                        </div>
+                    </div>
+
+                    
+                </div><div class=" col-2">
+                    <img src="@Model.Product.ImageUrl" width="100%"
+                         style="border-radius:5px; border:1px solid #bbb9b9"
+                         alt="No IMAGE " />
+
+                </div>
+            </div>
+            <!-- Form submission method is POST -->
+        </form>
+    </div>
+</div>
+
+@section Scripts {
+ <script>
+      tinymce.init({
+        selector: '#mytextarea',
+              plugins: [
+          // Core editing features
+          'anchor', 'autolink', 'charmap', 'codesample', 'emoticons', 'image', 'link', 'lists', 'media', 'searchreplace', 'table', 'visualblocks', 'wordcount',
+          // Your account includes a free trial of TinyMCE premium features
+          // Try the most popular premium features until Jan 21, 2025:
+          'checklist', 'mediaembed', 'casechange', 'export', 'formatpainter', 'pageembed', 'a11ychecker', 'tinymcespellchecker', 'permanentpen', 'powerpaste', 'advtable', 'advcode', 'editimage', 'advtemplate', 'ai', 'mentions', 'tinycomments', 'tableofcontents', 'footnotes', 'mergetags', 'autocorrect', 'typography', 'inlinecss', 'markdown','importword', 'exportword', 'exportpdf'
+        ],
+        toolbar: 'undo redo | blocks fontfamily fontsize | bold italic underline strikethrough | link image media table mergetags | addcomment showcomments | spellcheckdialog a11ycheck typography | align lineheight | checklist numlist bullist indent outdent | emoticons charmap | removeformat',
+            tinycomments_mode: 'embedded',
+          tinycomments_author: 'Author name', ai_request: (request, respondWith) => respondWith.string(() => Promise.reject('See docs to implement AI Assistant')),
+      });
+    </script>
+    {
+    <partial name="_ValidationScriptsPartial" /> <!-- Include validation scripts -->
+
+}}

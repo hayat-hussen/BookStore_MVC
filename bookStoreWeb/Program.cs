@@ -7,6 +7,11 @@ var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 builder.Services.AddControllersWithViews();
+builder.Services.AddControllers()
+    .AddJsonOptions(options =>
+    {
+        options.JsonSerializerOptions.ReferenceHandler = System.Text.Json.Serialization.ReferenceHandler.Preserve;
+    });
 
 // sets up the connection to a SQL Server database using the details from the configuration file. It makes it easy for your application to access and manage data in the database!
 builder.Services.AddDbContext<ApplicationDbContext>(options=>

@@ -21,13 +21,36 @@ namespace BookStore.DataAccess.Repository
             _db = db; // Assign the provided ApplicationDbContext to _db
         }
 
+        public Product? Get(Func<Product, bool> value)
+        {
+            throw new NotImplementedException();
+        }
+
         // Method to save changes to the database
 
 
         // Method to update an existing Product
         public void Update(Product obj)
         {
-            _db.Products.Update(obj); // Updates the specified Product in the database
+            var objFromDb = _db.Products.FirstOrDefault(u => u.Id == obj.Id); // Updates the specified Product in the database
+            if (objFromDb != null)
+            {
+                objFromDb.Title = obj.Title;
+                objFromDb.ISBN = obj.ISBN;
+                objFromDb.Description = obj.Description;
+                objFromDb.Author = obj.Author;
+                objFromDb.Price = obj.Price;
+                objFromDb.Price50 = obj.Price50;
+                objFromDb.Price100 = obj.Price100;
+                objFromDb.ListPrice = obj.ListPrice;
+                objFromDb.CategoryId = obj.CategoryId;
+                if (obj.ImageUrl != null)
+                {
+                    objFromDb.ImageUrl = obj.ImageUrl;
+                }
+               
+
+            }
         }
     }
 }

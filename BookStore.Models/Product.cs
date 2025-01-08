@@ -44,6 +44,7 @@ namespace BookStore.Models
 
         public Category Category { get; set; } // Navigation property
         [ValidateNever]
+        [Required(ErrorMessage = "Image  is required")]
 
         public string ImageUrl { get; set; } 
 

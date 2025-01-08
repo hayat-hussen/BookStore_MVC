@@ -7,6 +7,7 @@ using System.Threading.Tasks;
 using BookStore.DataAccess.Data;
 using BookStore.DataAccess.Repository.IRepository;
 using Microsoft.EntityFrameworkCore;
+using Microsoft.IdentityModel.Tokens;
 
 namespace BookStore.DataAccess.Repository
 {
@@ -21,6 +22,7 @@ namespace BookStore.DataAccess.Repository
         {
             _db = db;
             this.dbSet = _db.Set<T>(); // Set the DbSet for the entity type
+            _db.Products.Include(u => u.Category).Include(u=>u.CategoryId);
         }
 
         // Method to add a new entity to the database
@@ -30,17 +32,35 @@ namespace BookStore.DataAccess.Repository
         }
 
         // Method to retrieve a single entity based on a filter
-        public T Get(Expression<Func<T, bool>> filter)
+        public T Get(Expression<Func<T, bool>> filter, string? includeProperties = null)
         {
             IQueryable<T> query = dbSet; // Create a queryable from the DbSet
             query = query.Where(filter); // Apply the filter
+            if (!string.IsNullOrEmpty(includeProperties))
+            {
+                foreach (var includeProp in includeProperties
+                    .Split(new char[] { ',' }, StringSplitOptions.RemoveEmptyEntries))
+                {
+                    query = query.Include(includeProp);
+                }
+            }
             return query.FirstOrDefault(); // Return the first matching entity or null
         }
 
+    
+
         // Method to retrieve all entities from the database
-        public IEnumerable<T> GetAll()
+        public IEnumerable<T> GetAll( string? includeProperties= null)
         {
             IQueryable<T> query = dbSet; // Create a queryable from the DbSet
+            if (!string.IsNullOrEmpty(includeProperties))
+            {
+                foreach (var includeProp in includeProperties
+                    .Split(new char[] { ',' }, StringSplitOptions.RemoveEmptyEntries))
+                {
+                    query = query.Include(includeProp);
+                }
+            }
             return query.ToList(); // Return all entities as a list
         }
 

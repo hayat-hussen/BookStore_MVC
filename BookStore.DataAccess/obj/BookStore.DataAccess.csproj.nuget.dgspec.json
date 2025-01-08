@@ -57,6 +57,10 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "dependencies": {
+            "DataTables.AspNet.Core": {
+              "target": "Package",
+              "version": "[3.0.0-preview.19, )"
+            },
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",
               "version": "[8.0.0-preview.1.23111.4, )"
@@ -70,6 +74,10 @@
               "suppressParent": "All",
               "target": "Package",
               "version": "[8.0.0-preview.1.23111.4, )"
+            },
+            "datatables.net": {
+              "target": "Package",
+              "version": "[2.2.0, )"
             }
           },
           "imports": [
@@ -138,7 +146,15 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "dependencies": {
+            "DataTables.AspNet.Core": {
+              "target": "Package",
+              "version": "[3.0.0-preview.19, )"
+            },
             "Microsoft.AspNetCore.Mvc.ViewFeatures": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "datatables.net": {
               "target": "Package",
               "version": "[2.2.0, )"
             }
@@ -208,6 +224,16 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
+          "dependencies": {
+            "DataTables.AspNet.Core": {
+              "target": "Package",
+              "version": "[3.0.0-preview.19, )"
+            },
+            "datatables.net": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",

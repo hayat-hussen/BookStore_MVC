@@ -10,3 +10,4 @@ C:\Users\hayu\source\repos\bookStore\BookStore.Utility\obj\Debug\net8.0\BookStor
 C:\Users\hayu\source\repos\bookStore\BookStore.Utility\obj\Debug\net8.0\refint\BookStore.Utility.dll
 C:\Users\hayu\source\repos\bookStore\BookStore.Utility\obj\Debug\net8.0\BookStore.Utility.pdb
 C:\Users\hayu\source\repos\bookStore\BookStore.Utility\obj\Debug\net8.0\ref\BookStore.Utility.dll
+C:\Users\hayu\source\repos\bookStore\BookStore.Utility\obj\Debug\net8.0\BookStore.Utility.csproj.AssemblyReference.cache

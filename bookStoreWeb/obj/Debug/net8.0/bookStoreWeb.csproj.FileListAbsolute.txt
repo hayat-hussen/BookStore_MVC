@@ -268,3 +268,4 @@ C:\Users\hayu\source\repos\bookStore\bookStoreWeb\obj\Debug\net8.0\ref\bookStore
 C:\Users\hayu\source\repos\bookStore\bookStoreWeb\bin\Debug\net8.0\Microsoft.AspNetCore.JsonPatch.dll
 C:\Users\hayu\source\repos\bookStore\bookStoreWeb\bin\Debug\net8.0\Newtonsoft.Json.Bson.dll
 C:\Users\hayu\source\repos\bookStore\bookStoreWeb\obj\Debug\net8.0\bookStoreWeb.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\hayu\source\repos\bookStore\bookStoreWeb\bin\Debug\net8.0\DataTables.AspNet.Core.dll

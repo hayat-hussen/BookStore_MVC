@@ -49,6 +49,16 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
+          "dependencies": {
+            "DataTables.AspNet.Core": {
+              "target": "Package",
+              "version": "[3.0.0-preview.19, )"
+            },
+            "datatables.net": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",

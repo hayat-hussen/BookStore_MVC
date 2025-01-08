@@ -13,4 +13,25 @@
     <SourceRoot Include="C:\Users\hayu\.nuget\packages\" />
     <SourceRoot Include="C:\Program Files (x86)\Microsoft Visual Studio\Shared\NuGetPackages\" />
   </ItemGroup>
+  <ItemGroup Condition=" '$(ExcludeRestorePackageImports)' != 'true' ">
+    <Content Include="$(NuGetPackageRoot)datatables.net\2.2.0\contentFiles\any\any\wwwroot\js\dataTables.js" Condition="Exists('$(NuGetPackageRoot)datatables.net\2.2.0\contentFiles\any\any\wwwroot\js\dataTables.js')">
+      <NuGetPackageId>datatables.net</NuGetPackageId>
+      <NuGetPackageVersion>2.2.0</NuGetPackageVersion>
+      <NuGetItemType>Content</NuGetItemType>
+      <Pack>false</Pack>
+      <Private>False</Private>
+      <Link>wwwroot\js\dataTables.js</Link>
+    </Content>
+    <Content Include="$(NuGetPackageRoot)datatables.net\2.2.0\contentFiles\any\any\wwwroot\js\dataTables.min.js" Condition="Exists('$(NuGetPackageRoot)datatables.net\2.2.0\contentFiles\any\any\wwwroot\js\dataTables.min.js')">
+      <NuGetPackageId>datatables.net</NuGetPackageId>
+      <NuGetPackageVersion>2.2.0</NuGetPackageVersion>
+      <NuGetItemType>Content</NuGetItemType>
+      <Pack>false</Pack>
+      <Private>False</Private>
+      <Link>wwwroot\js\dataTables.min.js</Link>
+    </Content>
+  </ItemGroup>
+  <PropertyGroup Condition=" '$(ExcludeRestorePackageImports)' != 'true' ">
+    <PkgjQuery Condition=" '$(PkgjQuery)' == '' ">C:\Users\hayu\.nuget\packages\jquery\1.7.0</PkgjQuery>
+  </PropertyGroup>
 </Project>

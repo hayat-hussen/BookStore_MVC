@@ -6,4 +6,9 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <PackageReference Include="DataTables.AspNet.Core" Version="3.0.0-preview.19" />
+    <PackageReference Include="datatables.net" Version="2.2.0" />
+  </ItemGroup>
+
 </Project>
