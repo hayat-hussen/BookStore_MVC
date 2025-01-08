@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "gR5O0UmDcxLGvr70pDYGCesR8aE9qcp6/iBmNktEuag=",
+  "Hash": "KurGxwLK6JSMUcj3NjIZT2RG3UD1aAl0qdoC1VG3ZOI=",
   "Source": "bookStoreWeb",
   "BasePath": "_content/bookStoreWeb",
   "Mode": "Default",
@@ -143,6 +143,27 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
+      "Identity": "C:\\Users\\hayu\\source\\repos\\bookStore\\bookStoreWeb\\wwwroot\\images\\product\\06122732-6648-433b-b802-337b45ffa06c.jpg",
+      "SourceId": "bookStoreWeb",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\hayu\\source\\repos\\bookStore\\bookStoreWeb\\wwwroot\\",
+      "BasePath": "_content/bookStoreWeb",
+      "RelativePath": "images/product/06122732-6648-433b-b802-337b45ffa06c#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "ye39k9dvz5",
+      "Integrity": "imEbAbBfitdQDQ31h+Ikne7ZKtjqaSOKhHJgPKW3srE=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\product\\06122732-6648-433b-b802-337b45ffa06c.jpg"
+    },
+    {
       "Identity": "C:\\Users\\hayu\\source\\repos\\bookStore\\bookStoreWeb\\wwwroot\\images\\product\\167a7525-1fc8-4512-8288-a37aea9f4ddc.jpg",
       "SourceId": "bookStoreWeb",
       "SourceType": "Discovered",
@@ -185,6 +206,27 @@
       "OriginalItemSpec": "wwwroot\\images\\product\\188f5e6a-72d1-4aa7-a513-5f464fb89e6e.jpg"
     },
     {
+      "Identity": "C:\\Users\\hayu\\source\\repos\\bookStore\\bookStoreWeb\\wwwroot\\images\\product\\29ae4e82-6b40-43ed-b43c-47ae28180149.png",
+      "SourceId": "bookStoreWeb",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\hayu\\source\\repos\\bookStore\\bookStoreWeb\\wwwroot\\",
+      "BasePath": "_content/bookStoreWeb",
+      "RelativePath": "images/product/29ae4e82-6b40-43ed-b43c-47ae28180149#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "ta44cbam0i",
+      "Integrity": "O1mc9TeNoSLcfE9Y8rAt34UeznMLc9ARMpPknARQlxM=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\product\\29ae4e82-6b40-43ed-b43c-47ae28180149.png"
+    },
+    {
       "Identity": "C:\\Users\\hayu\\source\\repos\\bookStore\\bookStoreWeb\\wwwroot\\images\\product\\2f315ecd-98f7-4b92-8ef9-4ab2c72d8a85.jpg",
       "SourceId": "bookStoreWeb",
       "SourceType": "Discovered",
@@ -225,6 +267,48 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\images\\product\\4529e0f7-86b8-47d8-b891-d3003dbaf928.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\hayu\\source\\repos\\bookStore\\bookStoreWeb\\wwwroot\\images\\product\\4ab6afd3-69de-4b36-a243-5addd5d4200c.jpg",
+      "SourceId": "bookStoreWeb",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\hayu\\source\\repos\\bookStore\\bookStoreWeb\\wwwroot\\",
+      "BasePath": "_content/bookStoreWeb",
+      "RelativePath": "images/product/4ab6afd3-69de-4b36-a243-5addd5d4200c#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "asbi4wwv9t",
+      "Integrity": "1i8/WJ/teMHNz3o9tVl4SC199HnGns3AYELj/44V/cw=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\product\\4ab6afd3-69de-4b36-a243-5addd5d4200c.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\hayu\\source\\repos\\bookStore\\bookStoreWeb\\wwwroot\\images\\product\\50d6e063-fc56-4104-9741-e0e5b8c61cb8.jpg",
+      "SourceId": "bookStoreWeb",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\hayu\\source\\repos\\bookStore\\bookStoreWeb\\wwwroot\\",
+      "BasePath": "_content/bookStoreWeb",
+      "RelativePath": "images/product/50d6e063-fc56-4104-9741-e0e5b8c61cb8#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "qrkel7u0jv",
+      "Integrity": "Wg7uBZsvoXmhQ+fo59ScLx53kD46rbUQzCzv0eGH1Xk=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\product\\50d6e063-fc56-4104-9741-e0e5b8c61cb8.jpg"
     },
     {
       "Identity": "C:\\Users\\hayu\\source\\repos\\bookStore\\bookStoreWeb\\wwwroot\\images\\product\\579d9772-4a47-4393-9658-a15dfca663ad.jpg",
@@ -288,6 +372,27 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\images\\product\\5ff0d0fb-79a5-419e-9cc8-11f62a74dd12.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\hayu\\source\\repos\\bookStore\\bookStoreWeb\\wwwroot\\images\\product\\84ab710b-d294-4c9b-b3b8-d5c6f0ece992.jpg",
+      "SourceId": "bookStoreWeb",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\hayu\\source\\repos\\bookStore\\bookStoreWeb\\wwwroot\\",
+      "BasePath": "_content/bookStoreWeb",
+      "RelativePath": "images/product/84ab710b-d294-4c9b-b3b8-d5c6f0ece992#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "qxby501rkx",
+      "Integrity": "7mWgsD6iFU4ATUN8sqbG/WZ64+5Gt+eWOkxWihne6Pk=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\product\\84ab710b-d294-4c9b-b3b8-d5c6f0ece992.jpg"
     },
     {
       "Identity": "C:\\Users\\hayu\\source\\repos\\bookStore\\bookStoreWeb\\wwwroot\\images\\product\\8a4df44e-7ff2-4cea-8b50-804b90e9b148.jpg",
@@ -416,6 +521,48 @@
       "OriginalItemSpec": "wwwroot\\images\\product\\9904aafb-9a3f-472d-ab23-ecd4735d886e.jpg"
     },
     {
+      "Identity": "C:\\Users\\hayu\\source\\repos\\bookStore\\bookStoreWeb\\wwwroot\\images\\product\\9bace4ea-3b96-4f97-81db-a6409155e1f8.jpg",
+      "SourceId": "bookStoreWeb",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\hayu\\source\\repos\\bookStore\\bookStoreWeb\\wwwroot\\",
+      "BasePath": "_content/bookStoreWeb",
+      "RelativePath": "images/product/9bace4ea-3b96-4f97-81db-a6409155e1f8#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "ecb6f2vn57",
+      "Integrity": "Ehr6l3Abfe+w/m+tZx+lFKvpwbF7MtDBHEgF8xRHHDI=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\product\\9bace4ea-3b96-4f97-81db-a6409155e1f8.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\hayu\\source\\repos\\bookStore\\bookStoreWeb\\wwwroot\\images\\product\\a32540bc-715c-4b82-8240-52459f38775f.jpg",
+      "SourceId": "bookStoreWeb",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\hayu\\source\\repos\\bookStore\\bookStoreWeb\\wwwroot\\",
+      "BasePath": "_content/bookStoreWeb",
+      "RelativePath": "images/product/a32540bc-715c-4b82-8240-52459f38775f#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "ecb6f2vn57",
+      "Integrity": "Ehr6l3Abfe+w/m+tZx+lFKvpwbF7MtDBHEgF8xRHHDI=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\product\\a32540bc-715c-4b82-8240-52459f38775f.jpg"
+    },
+    {
       "Identity": "C:\\Users\\hayu\\source\\repos\\bookStore\\bookStoreWeb\\wwwroot\\images\\product\\a6c97099-0ea0-4f78-86ee-85de28b97b11.jpg",
       "SourceId": "bookStoreWeb",
       "SourceType": "Discovered",
@@ -458,6 +605,48 @@
       "OriginalItemSpec": "wwwroot\\images\\product\\ac2e6290-ebf7-4f34-9a05-4cade59a4eea.jpg"
     },
     {
+      "Identity": "C:\\Users\\hayu\\source\\repos\\bookStore\\bookStoreWeb\\wwwroot\\images\\product\\ad2c8d09-37df-445d-a5ef-9f673b0b694e.jpg",
+      "SourceId": "bookStoreWeb",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\hayu\\source\\repos\\bookStore\\bookStoreWeb\\wwwroot\\",
+      "BasePath": "_content/bookStoreWeb",
+      "RelativePath": "images/product/ad2c8d09-37df-445d-a5ef-9f673b0b694e#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "cafjpk87dy",
+      "Integrity": "JJ20MfQmqFw4v7gxWKcgzDMC6FMUXDP4K97Jj8MQzx4=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\product\\ad2c8d09-37df-445d-a5ef-9f673b0b694e.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\hayu\\source\\repos\\bookStore\\bookStoreWeb\\wwwroot\\images\\product\\b44a5a94-632a-4032-9051-9295bd342f8f.jpg",
+      "SourceId": "bookStoreWeb",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\hayu\\source\\repos\\bookStore\\bookStoreWeb\\wwwroot\\",
+      "BasePath": "_content/bookStoreWeb",
+      "RelativePath": "images/product/b44a5a94-632a-4032-9051-9295bd342f8f#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "z6xgka4h72",
+      "Integrity": "C4jEbpqfM2ANsFlVX8N/ycqMtSMqRjg91K5WZQ4bMoA=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\product\\b44a5a94-632a-4032-9051-9295bd342f8f.jpg"
+    },
+    {
       "Identity": "C:\\Users\\hayu\\source\\repos\\bookStore\\bookStoreWeb\\wwwroot\\images\\product\\b59c9f84-9a04-4922-bb23-b1cc29fbeb5e.jpg",
       "SourceId": "bookStoreWeb",
       "SourceType": "Discovered",
@@ -477,6 +666,27 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\images\\product\\b59c9f84-9a04-4922-bb23-b1cc29fbeb5e.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\hayu\\source\\repos\\bookStore\\bookStoreWeb\\wwwroot\\images\\product\\b6a635a6-a6ae-4101-8c08-23db58bad679.jpg",
+      "SourceId": "bookStoreWeb",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\hayu\\source\\repos\\bookStore\\bookStoreWeb\\wwwroot\\",
+      "BasePath": "_content/bookStoreWeb",
+      "RelativePath": "images/product/b6a635a6-a6ae-4101-8c08-23db58bad679#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "3hdhlwry2x",
+      "Integrity": "d0M83LQw6uIrBpHTmXyd848czM7XkFeM9B4G4Tbzsx4=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\product\\b6a635a6-a6ae-4101-8c08-23db58bad679.jpg"
     },
     {
       "Identity": "C:\\Users\\hayu\\source\\repos\\bookStore\\bookStoreWeb\\wwwroot\\images\\product\\befc477e-1c96-4f8e-b2dd-9542a807ece3.jpg",
@@ -542,6 +752,48 @@
       "OriginalItemSpec": "wwwroot\\images\\product\\c4264f2d-a17f-4de1-bfa3-322e1aedf567.jpg"
     },
     {
+      "Identity": "C:\\Users\\hayu\\source\\repos\\bookStore\\bookStoreWeb\\wwwroot\\images\\product\\da8378dd-9835-4fb3-b7ba-59f46d4dcba9.jpg",
+      "SourceId": "bookStoreWeb",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\hayu\\source\\repos\\bookStore\\bookStoreWeb\\wwwroot\\",
+      "BasePath": "_content/bookStoreWeb",
+      "RelativePath": "images/product/da8378dd-9835-4fb3-b7ba-59f46d4dcba9#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "qrkel7u0jv",
+      "Integrity": "Wg7uBZsvoXmhQ+fo59ScLx53kD46rbUQzCzv0eGH1Xk=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\product\\da8378dd-9835-4fb3-b7ba-59f46d4dcba9.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\hayu\\source\\repos\\bookStore\\bookStoreWeb\\wwwroot\\images\\product\\e33f1c81-5f14-4057-8395-71b9d604c159.jpg",
+      "SourceId": "bookStoreWeb",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\hayu\\source\\repos\\bookStore\\bookStoreWeb\\wwwroot\\",
+      "BasePath": "_content/bookStoreWeb",
+      "RelativePath": "images/product/e33f1c81-5f14-4057-8395-71b9d604c159#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "asbi4wwv9t",
+      "Integrity": "1i8/WJ/teMHNz3o9tVl4SC199HnGns3AYELj/44V/cw=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\product\\e33f1c81-5f14-4057-8395-71b9d604c159.jpg"
+    },
+    {
       "Identity": "C:\\Users\\hayu\\source\\repos\\bookStore\\bookStoreWeb\\wwwroot\\images\\product\\e7c22602-947c-403e-a216-ab40c0ae536e.jpg",
       "SourceId": "bookStoreWeb",
       "SourceType": "Discovered",
@@ -582,6 +834,48 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\images\\product\\e8e1ae3a-109c-40ec-813e-9c2082ff61e3.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\hayu\\source\\repos\\bookStore\\bookStoreWeb\\wwwroot\\images\\product\\ee56b327-908c-4643-b596-dbdf66dbecea.jpg",
+      "SourceId": "bookStoreWeb",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\hayu\\source\\repos\\bookStore\\bookStoreWeb\\wwwroot\\",
+      "BasePath": "_content/bookStoreWeb",
+      "RelativePath": "images/product/ee56b327-908c-4643-b596-dbdf66dbecea#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "e6vrbzb0s4",
+      "Integrity": "lt0jcFtT3epYeWXpcSx7Js5crNggoy7RSHvrynzuhE4=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\product\\ee56b327-908c-4643-b596-dbdf66dbecea.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\hayu\\source\\repos\\bookStore\\bookStoreWeb\\wwwroot\\images\\product\\f2d762e9-4546-49e7-bd1c-50a2e981f291.jpg",
+      "SourceId": "bookStoreWeb",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\hayu\\source\\repos\\bookStore\\bookStoreWeb\\wwwroot\\",
+      "BasePath": "_content/bookStoreWeb",
+      "RelativePath": "images/product/f2d762e9-4546-49e7-bd1c-50a2e981f291#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "ye39k9dvz5",
+      "Integrity": "imEbAbBfitdQDQ31h+Ikne7ZKtjqaSOKhHJgPKW3srE=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\product\\f2d762e9-4546-49e7-bd1c-50a2e981f291.jpg"
     },
     {
       "Identity": "C:\\Users\\hayu\\source\\repos\\bookStore\\bookStoreWeb\\wwwroot\\images\\product\\f9775fc1-820b-4909-bf85-104163221876.jpg",
@@ -2174,6 +2468,88 @@
       ]
     },
     {
+      "Route": "images/product/06122732-6648-433b-b802-337b45ffa06c.jpg",
+      "AssetFile": "C:\\Users\\hayu\\source\\repos\\bookStore\\bookStoreWeb\\wwwroot\\images\\product\\06122732-6648-433b-b802-337b45ffa06c.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "196077"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"imEbAbBfitdQDQ31h+Ikne7ZKtjqaSOKhHJgPKW3srE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 08 Jan 2025 23:01:36 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-imEbAbBfitdQDQ31h+Ikne7ZKtjqaSOKhHJgPKW3srE="
+        }
+      ]
+    },
+    {
+      "Route": "images/product/06122732-6648-433b-b802-337b45ffa06c.ye39k9dvz5.jpg",
+      "AssetFile": "C:\\Users\\hayu\\source\\repos\\bookStore\\bookStoreWeb\\wwwroot\\images\\product\\06122732-6648-433b-b802-337b45ffa06c.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "196077"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"imEbAbBfitdQDQ31h+Ikne7ZKtjqaSOKhHJgPKW3srE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 08 Jan 2025 23:01:36 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ye39k9dvz5"
+        },
+        {
+          "Name": "label",
+          "Value": "images/product/06122732-6648-433b-b802-337b45ffa06c.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-imEbAbBfitdQDQ31h+Ikne7ZKtjqaSOKhHJgPKW3srE="
+        }
+      ]
+    },
+    {
       "Route": "images/product/167a7525-1fc8-4512-8288-a37aea9f4ddc.jpg",
       "AssetFile": "C:\\Users\\hayu\\source\\repos\\bookStore\\bookStoreWeb\\wwwroot\\images\\product\\167a7525-1fc8-4512-8288-a37aea9f4ddc.jpg",
       "Selectors": [],
@@ -2338,6 +2714,88 @@
       ]
     },
     {
+      "Route": "images/product/29ae4e82-6b40-43ed-b43c-47ae28180149.png",
+      "AssetFile": "C:\\Users\\hayu\\source\\repos\\bookStore\\bookStoreWeb\\wwwroot\\images\\product\\29ae4e82-6b40-43ed-b43c-47ae28180149.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "51396"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"O1mc9TeNoSLcfE9Y8rAt34UeznMLc9ARMpPknARQlxM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 08 Jan 2025 23:03:10 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-O1mc9TeNoSLcfE9Y8rAt34UeznMLc9ARMpPknARQlxM="
+        }
+      ]
+    },
+    {
+      "Route": "images/product/29ae4e82-6b40-43ed-b43c-47ae28180149.ta44cbam0i.png",
+      "AssetFile": "C:\\Users\\hayu\\source\\repos\\bookStore\\bookStoreWeb\\wwwroot\\images\\product\\29ae4e82-6b40-43ed-b43c-47ae28180149.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "51396"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"O1mc9TeNoSLcfE9Y8rAt34UeznMLc9ARMpPknARQlxM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 08 Jan 2025 23:03:10 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ta44cbam0i"
+        },
+        {
+          "Name": "label",
+          "Value": "images/product/29ae4e82-6b40-43ed-b43c-47ae28180149.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-O1mc9TeNoSLcfE9Y8rAt34UeznMLc9ARMpPknARQlxM="
+        }
+      ]
+    },
+    {
       "Route": "images/product/2f315ecd-98f7-4b92-8ef9-4ab2c72d8a85.ecb6f2vn57.jpg",
       "AssetFile": "C:\\Users\\hayu\\source\\repos\\bookStore\\bookStoreWeb\\wwwroot\\images\\product\\2f315ecd-98f7-4b92-8ef9-4ab2c72d8a85.jpg",
       "Selectors": [],
@@ -2498,6 +2956,170 @@
         {
           "Name": "integrity",
           "Value": "sha256-TVOlyKh3m7AeZD5NJP+9kCVkKysVNPbLUQMt12fAikw="
+        }
+      ]
+    },
+    {
+      "Route": "images/product/4ab6afd3-69de-4b36-a243-5addd5d4200c.asbi4wwv9t.jpg",
+      "AssetFile": "C:\\Users\\hayu\\source\\repos\\bookStore\\bookStoreWeb\\wwwroot\\images\\product\\4ab6afd3-69de-4b36-a243-5addd5d4200c.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "214948"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"1i8/WJ/teMHNz3o9tVl4SC199HnGns3AYELj/44V/cw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 08 Jan 2025 23:02:22 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "asbi4wwv9t"
+        },
+        {
+          "Name": "label",
+          "Value": "images/product/4ab6afd3-69de-4b36-a243-5addd5d4200c.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-1i8/WJ/teMHNz3o9tVl4SC199HnGns3AYELj/44V/cw="
+        }
+      ]
+    },
+    {
+      "Route": "images/product/4ab6afd3-69de-4b36-a243-5addd5d4200c.jpg",
+      "AssetFile": "C:\\Users\\hayu\\source\\repos\\bookStore\\bookStoreWeb\\wwwroot\\images\\product\\4ab6afd3-69de-4b36-a243-5addd5d4200c.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "214948"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"1i8/WJ/teMHNz3o9tVl4SC199HnGns3AYELj/44V/cw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 08 Jan 2025 23:02:22 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-1i8/WJ/teMHNz3o9tVl4SC199HnGns3AYELj/44V/cw="
+        }
+      ]
+    },
+    {
+      "Route": "images/product/50d6e063-fc56-4104-9741-e0e5b8c61cb8.jpg",
+      "AssetFile": "C:\\Users\\hayu\\source\\repos\\bookStore\\bookStoreWeb\\wwwroot\\images\\product\\50d6e063-fc56-4104-9741-e0e5b8c61cb8.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "135890"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Wg7uBZsvoXmhQ+fo59ScLx53kD46rbUQzCzv0eGH1Xk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 08 Jan 2025 23:02:55 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Wg7uBZsvoXmhQ+fo59ScLx53kD46rbUQzCzv0eGH1Xk="
+        }
+      ]
+    },
+    {
+      "Route": "images/product/50d6e063-fc56-4104-9741-e0e5b8c61cb8.qrkel7u0jv.jpg",
+      "AssetFile": "C:\\Users\\hayu\\source\\repos\\bookStore\\bookStoreWeb\\wwwroot\\images\\product\\50d6e063-fc56-4104-9741-e0e5b8c61cb8.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "135890"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Wg7uBZsvoXmhQ+fo59ScLx53kD46rbUQzCzv0eGH1Xk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 08 Jan 2025 23:02:55 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "qrkel7u0jv"
+        },
+        {
+          "Name": "label",
+          "Value": "images/product/50d6e063-fc56-4104-9741-e0e5b8c61cb8.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Wg7uBZsvoXmhQ+fo59ScLx53kD46rbUQzCzv0eGH1Xk="
         }
       ]
     },
@@ -2744,6 +3366,88 @@
         {
           "Name": "integrity",
           "Value": "sha256-lt0jcFtT3epYeWXpcSx7Js5crNggoy7RSHvrynzuhE4="
+        }
+      ]
+    },
+    {
+      "Route": "images/product/84ab710b-d294-4c9b-b3b8-d5c6f0ece992.jpg",
+      "AssetFile": "C:\\Users\\hayu\\source\\repos\\bookStore\\bookStoreWeb\\wwwroot\\images\\product\\84ab710b-d294-4c9b-b3b8-d5c6f0ece992.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "103137"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"7mWgsD6iFU4ATUN8sqbG/WZ64+5Gt+eWOkxWihne6Pk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 08 Jan 2025 23:03:28 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-7mWgsD6iFU4ATUN8sqbG/WZ64+5Gt+eWOkxWihne6Pk="
+        }
+      ]
+    },
+    {
+      "Route": "images/product/84ab710b-d294-4c9b-b3b8-d5c6f0ece992.qxby501rkx.jpg",
+      "AssetFile": "C:\\Users\\hayu\\source\\repos\\bookStore\\bookStoreWeb\\wwwroot\\images\\product\\84ab710b-d294-4c9b-b3b8-d5c6f0ece992.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "103137"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"7mWgsD6iFU4ATUN8sqbG/WZ64+5Gt+eWOkxWihne6Pk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 08 Jan 2025 23:03:28 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "qxby501rkx"
+        },
+        {
+          "Name": "label",
+          "Value": "images/product/84ab710b-d294-4c9b-b3b8-d5c6f0ece992.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-7mWgsD6iFU4ATUN8sqbG/WZ64+5Gt+eWOkxWihne6Pk="
         }
       ]
     },
@@ -3240,6 +3944,170 @@
       ]
     },
     {
+      "Route": "images/product/9bace4ea-3b96-4f97-81db-a6409155e1f8.ecb6f2vn57.jpg",
+      "AssetFile": "C:\\Users\\hayu\\source\\repos\\bookStore\\bookStoreWeb\\wwwroot\\images\\product\\9bace4ea-3b96-4f97-81db-a6409155e1f8.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "83460"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Ehr6l3Abfe+w/m+tZx+lFKvpwbF7MtDBHEgF8xRHHDI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 08 Jan 2025 23:00:37 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ecb6f2vn57"
+        },
+        {
+          "Name": "label",
+          "Value": "images/product/9bace4ea-3b96-4f97-81db-a6409155e1f8.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Ehr6l3Abfe+w/m+tZx+lFKvpwbF7MtDBHEgF8xRHHDI="
+        }
+      ]
+    },
+    {
+      "Route": "images/product/9bace4ea-3b96-4f97-81db-a6409155e1f8.jpg",
+      "AssetFile": "C:\\Users\\hayu\\source\\repos\\bookStore\\bookStoreWeb\\wwwroot\\images\\product\\9bace4ea-3b96-4f97-81db-a6409155e1f8.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "83460"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Ehr6l3Abfe+w/m+tZx+lFKvpwbF7MtDBHEgF8xRHHDI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 08 Jan 2025 23:00:37 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Ehr6l3Abfe+w/m+tZx+lFKvpwbF7MtDBHEgF8xRHHDI="
+        }
+      ]
+    },
+    {
+      "Route": "images/product/a32540bc-715c-4b82-8240-52459f38775f.ecb6f2vn57.jpg",
+      "AssetFile": "C:\\Users\\hayu\\source\\repos\\bookStore\\bookStoreWeb\\wwwroot\\images\\product\\a32540bc-715c-4b82-8240-52459f38775f.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "83460"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Ehr6l3Abfe+w/m+tZx+lFKvpwbF7MtDBHEgF8xRHHDI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 08 Jan 2025 23:04:04 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ecb6f2vn57"
+        },
+        {
+          "Name": "label",
+          "Value": "images/product/a32540bc-715c-4b82-8240-52459f38775f.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Ehr6l3Abfe+w/m+tZx+lFKvpwbF7MtDBHEgF8xRHHDI="
+        }
+      ]
+    },
+    {
+      "Route": "images/product/a32540bc-715c-4b82-8240-52459f38775f.jpg",
+      "AssetFile": "C:\\Users\\hayu\\source\\repos\\bookStore\\bookStoreWeb\\wwwroot\\images\\product\\a32540bc-715c-4b82-8240-52459f38775f.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "83460"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Ehr6l3Abfe+w/m+tZx+lFKvpwbF7MtDBHEgF8xRHHDI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 08 Jan 2025 23:04:04 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Ehr6l3Abfe+w/m+tZx+lFKvpwbF7MtDBHEgF8xRHHDI="
+        }
+      ]
+    },
+    {
       "Route": "images/product/a6c97099-0ea0-4f78-86ee-85de28b97b11.ecb6f2vn57.jpg",
       "AssetFile": "C:\\Users\\hayu\\source\\repos\\bookStore\\bookStoreWeb\\wwwroot\\images\\product\\a6c97099-0ea0-4f78-86ee-85de28b97b11.jpg",
       "Selectors": [],
@@ -3404,6 +4272,170 @@
       ]
     },
     {
+      "Route": "images/product/ad2c8d09-37df-445d-a5ef-9f673b0b694e.cafjpk87dy.jpg",
+      "AssetFile": "C:\\Users\\hayu\\source\\repos\\bookStore\\bookStoreWeb\\wwwroot\\images\\product\\ad2c8d09-37df-445d-a5ef-9f673b0b694e.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "73813"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"JJ20MfQmqFw4v7gxWKcgzDMC6FMUXDP4K97Jj8MQzx4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 08 Jan 2025 22:59:29 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "cafjpk87dy"
+        },
+        {
+          "Name": "label",
+          "Value": "images/product/ad2c8d09-37df-445d-a5ef-9f673b0b694e.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-JJ20MfQmqFw4v7gxWKcgzDMC6FMUXDP4K97Jj8MQzx4="
+        }
+      ]
+    },
+    {
+      "Route": "images/product/ad2c8d09-37df-445d-a5ef-9f673b0b694e.jpg",
+      "AssetFile": "C:\\Users\\hayu\\source\\repos\\bookStore\\bookStoreWeb\\wwwroot\\images\\product\\ad2c8d09-37df-445d-a5ef-9f673b0b694e.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "73813"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"JJ20MfQmqFw4v7gxWKcgzDMC6FMUXDP4K97Jj8MQzx4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 08 Jan 2025 22:59:29 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-JJ20MfQmqFw4v7gxWKcgzDMC6FMUXDP4K97Jj8MQzx4="
+        }
+      ]
+    },
+    {
+      "Route": "images/product/b44a5a94-632a-4032-9051-9295bd342f8f.jpg",
+      "AssetFile": "C:\\Users\\hayu\\source\\repos\\bookStore\\bookStoreWeb\\wwwroot\\images\\product\\b44a5a94-632a-4032-9051-9295bd342f8f.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "81773"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"C4jEbpqfM2ANsFlVX8N/ycqMtSMqRjg91K5WZQ4bMoA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 08 Jan 2025 23:02:06 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-C4jEbpqfM2ANsFlVX8N/ycqMtSMqRjg91K5WZQ4bMoA="
+        }
+      ]
+    },
+    {
+      "Route": "images/product/b44a5a94-632a-4032-9051-9295bd342f8f.z6xgka4h72.jpg",
+      "AssetFile": "C:\\Users\\hayu\\source\\repos\\bookStore\\bookStoreWeb\\wwwroot\\images\\product\\b44a5a94-632a-4032-9051-9295bd342f8f.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "81773"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"C4jEbpqfM2ANsFlVX8N/ycqMtSMqRjg91K5WZQ4bMoA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 08 Jan 2025 23:02:06 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "z6xgka4h72"
+        },
+        {
+          "Name": "label",
+          "Value": "images/product/b44a5a94-632a-4032-9051-9295bd342f8f.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-C4jEbpqfM2ANsFlVX8N/ycqMtSMqRjg91K5WZQ4bMoA="
+        }
+      ]
+    },
+    {
       "Route": "images/product/b59c9f84-9a04-4922-bb23-b1cc29fbeb5e.jpg",
       "AssetFile": "C:\\Users\\hayu\\source\\repos\\bookStore\\bookStoreWeb\\wwwroot\\images\\product\\b59c9f84-9a04-4922-bb23-b1cc29fbeb5e.jpg",
       "Selectors": [],
@@ -3482,6 +4514,88 @@
         {
           "Name": "integrity",
           "Value": "sha256-v6T3Kn35L6tFufzUrWBb3paRq4gqwg/hg/ua37dOipg="
+        }
+      ]
+    },
+    {
+      "Route": "images/product/b6a635a6-a6ae-4101-8c08-23db58bad679.3hdhlwry2x.jpg",
+      "AssetFile": "C:\\Users\\hayu\\source\\repos\\bookStore\\bookStoreWeb\\wwwroot\\images\\product\\b6a635a6-a6ae-4101-8c08-23db58bad679.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "81505"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"d0M83LQw6uIrBpHTmXyd848czM7XkFeM9B4G4Tbzsx4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 08 Jan 2025 23:02:41 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "3hdhlwry2x"
+        },
+        {
+          "Name": "label",
+          "Value": "images/product/b6a635a6-a6ae-4101-8c08-23db58bad679.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-d0M83LQw6uIrBpHTmXyd848czM7XkFeM9B4G4Tbzsx4="
+        }
+      ]
+    },
+    {
+      "Route": "images/product/b6a635a6-a6ae-4101-8c08-23db58bad679.jpg",
+      "AssetFile": "C:\\Users\\hayu\\source\\repos\\bookStore\\bookStoreWeb\\wwwroot\\images\\product\\b6a635a6-a6ae-4101-8c08-23db58bad679.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "81505"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"d0M83LQw6uIrBpHTmXyd848czM7XkFeM9B4G4Tbzsx4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 08 Jan 2025 23:02:41 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-d0M83LQw6uIrBpHTmXyd848czM7XkFeM9B4G4Tbzsx4="
         }
       ]
     },
@@ -3732,6 +4846,170 @@
       ]
     },
     {
+      "Route": "images/product/da8378dd-9835-4fb3-b7ba-59f46d4dcba9.jpg",
+      "AssetFile": "C:\\Users\\hayu\\source\\repos\\bookStore\\bookStoreWeb\\wwwroot\\images\\product\\da8378dd-9835-4fb3-b7ba-59f46d4dcba9.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "135890"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Wg7uBZsvoXmhQ+fo59ScLx53kD46rbUQzCzv0eGH1Xk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 08 Jan 2025 23:04:27 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Wg7uBZsvoXmhQ+fo59ScLx53kD46rbUQzCzv0eGH1Xk="
+        }
+      ]
+    },
+    {
+      "Route": "images/product/da8378dd-9835-4fb3-b7ba-59f46d4dcba9.qrkel7u0jv.jpg",
+      "AssetFile": "C:\\Users\\hayu\\source\\repos\\bookStore\\bookStoreWeb\\wwwroot\\images\\product\\da8378dd-9835-4fb3-b7ba-59f46d4dcba9.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "135890"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Wg7uBZsvoXmhQ+fo59ScLx53kD46rbUQzCzv0eGH1Xk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 08 Jan 2025 23:04:27 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "qrkel7u0jv"
+        },
+        {
+          "Name": "label",
+          "Value": "images/product/da8378dd-9835-4fb3-b7ba-59f46d4dcba9.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Wg7uBZsvoXmhQ+fo59ScLx53kD46rbUQzCzv0eGH1Xk="
+        }
+      ]
+    },
+    {
+      "Route": "images/product/e33f1c81-5f14-4057-8395-71b9d604c159.asbi4wwv9t.jpg",
+      "AssetFile": "C:\\Users\\hayu\\source\\repos\\bookStore\\bookStoreWeb\\wwwroot\\images\\product\\e33f1c81-5f14-4057-8395-71b9d604c159.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "214948"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"1i8/WJ/teMHNz3o9tVl4SC199HnGns3AYELj/44V/cw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 08 Jan 2025 23:04:48 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "asbi4wwv9t"
+        },
+        {
+          "Name": "label",
+          "Value": "images/product/e33f1c81-5f14-4057-8395-71b9d604c159.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-1i8/WJ/teMHNz3o9tVl4SC199HnGns3AYELj/44V/cw="
+        }
+      ]
+    },
+    {
+      "Route": "images/product/e33f1c81-5f14-4057-8395-71b9d604c159.jpg",
+      "AssetFile": "C:\\Users\\hayu\\source\\repos\\bookStore\\bookStoreWeb\\wwwroot\\images\\product\\e33f1c81-5f14-4057-8395-71b9d604c159.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "214948"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"1i8/WJ/teMHNz3o9tVl4SC199HnGns3AYELj/44V/cw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 08 Jan 2025 23:04:48 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-1i8/WJ/teMHNz3o9tVl4SC199HnGns3AYELj/44V/cw="
+        }
+      ]
+    },
+    {
       "Route": "images/product/e7c22602-947c-403e-a216-ab40c0ae536e.ecb6f2vn57.jpg",
       "AssetFile": "C:\\Users\\hayu\\source\\repos\\bookStore\\bookStoreWeb\\wwwroot\\images\\product\\e7c22602-947c-403e-a216-ab40c0ae536e.jpg",
       "Selectors": [],
@@ -3892,6 +5170,170 @@
         {
           "Name": "integrity",
           "Value": "sha256-Ehr6l3Abfe+w/m+tZx+lFKvpwbF7MtDBHEgF8xRHHDI="
+        }
+      ]
+    },
+    {
+      "Route": "images/product/ee56b327-908c-4643-b596-dbdf66dbecea.e6vrbzb0s4.jpg",
+      "AssetFile": "C:\\Users\\hayu\\source\\repos\\bookStore\\bookStoreWeb\\wwwroot\\images\\product\\ee56b327-908c-4643-b596-dbdf66dbecea.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "357574"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"lt0jcFtT3epYeWXpcSx7Js5crNggoy7RSHvrynzuhE4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 08 Jan 2025 23:03:44 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "e6vrbzb0s4"
+        },
+        {
+          "Name": "label",
+          "Value": "images/product/ee56b327-908c-4643-b596-dbdf66dbecea.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-lt0jcFtT3epYeWXpcSx7Js5crNggoy7RSHvrynzuhE4="
+        }
+      ]
+    },
+    {
+      "Route": "images/product/ee56b327-908c-4643-b596-dbdf66dbecea.jpg",
+      "AssetFile": "C:\\Users\\hayu\\source\\repos\\bookStore\\bookStoreWeb\\wwwroot\\images\\product\\ee56b327-908c-4643-b596-dbdf66dbecea.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "357574"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"lt0jcFtT3epYeWXpcSx7Js5crNggoy7RSHvrynzuhE4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 08 Jan 2025 23:03:44 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-lt0jcFtT3epYeWXpcSx7Js5crNggoy7RSHvrynzuhE4="
+        }
+      ]
+    },
+    {
+      "Route": "images/product/f2d762e9-4546-49e7-bd1c-50a2e981f291.jpg",
+      "AssetFile": "C:\\Users\\hayu\\source\\repos\\bookStore\\bookStoreWeb\\wwwroot\\images\\product\\f2d762e9-4546-49e7-bd1c-50a2e981f291.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "196077"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"imEbAbBfitdQDQ31h+Ikne7ZKtjqaSOKhHJgPKW3srE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 08 Jan 2025 23:00:57 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-imEbAbBfitdQDQ31h+Ikne7ZKtjqaSOKhHJgPKW3srE="
+        }
+      ]
+    },
+    {
+      "Route": "images/product/f2d762e9-4546-49e7-bd1c-50a2e981f291.ye39k9dvz5.jpg",
+      "AssetFile": "C:\\Users\\hayu\\source\\repos\\bookStore\\bookStoreWeb\\wwwroot\\images\\product\\f2d762e9-4546-49e7-bd1c-50a2e981f291.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "196077"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"imEbAbBfitdQDQ31h+Ikne7ZKtjqaSOKhHJgPKW3srE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 08 Jan 2025 23:00:57 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ye39k9dvz5"
+        },
+        {
+          "Name": "label",
+          "Value": "images/product/f2d762e9-4546-49e7-bd1c-50a2e981f291.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-imEbAbBfitdQDQ31h+Ikne7ZKtjqaSOKhHJgPKW3srE="
         }
       ]
     },

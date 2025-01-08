@@ -3,8 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\hayu\\source\\repos\\bookStore\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{823A1454-D85A-4FDB-8886-EB8005A564BA}|bookStoreWeb\\bookStoreWeb.csproj|c:\\users\\hayu\\source\\repos\\bookstore\\bookstoreweb\\areas\\admin\\views\\product\\upsert.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{823A1454-D85A-4FDB-8886-EB8005A564BA}|bookStoreWeb\\bookStoreWeb.csproj|solutionrelative:bookstoreweb\\areas\\admin\\views\\product\\upsert.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{823A1454-D85A-4FDB-8886-EB8005A564BA}|bookStoreWeb\\bookStoreWeb.csproj|c:\\users\\hayu\\source\\repos\\bookstore\\bookstoreweb\\areas\\customer\\views\\home\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{823A1454-D85A-4FDB-8886-EB8005A564BA}|bookStoreWeb\\bookStoreWeb.csproj|solutionrelative:bookstoreweb\\areas\\customer\\views\\home\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{823A1454-D85A-4FDB-8886-EB8005A564BA}|bookStoreWeb\\bookStoreWeb.csproj|c:\\users\\hayu\\source\\repos\\bookstore\\bookstoreweb\\areas\\customer\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{823A1454-D85A-4FDB-8886-EB8005A564BA}|bookStoreWeb\\bookStoreWeb.csproj|solutionrelative:bookstoreweb\\areas\\customer\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{823A1454-D85A-4FDB-8886-EB8005A564BA}|bookStoreWeb\\bookStoreWeb.csproj|c:\\users\\hayu\\source\\repos\\bookstore\\bookstoreweb\\areas\\customer\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{823A1454-D85A-4FDB-8886-EB8005A564BA}|bookStoreWeb\\bookStoreWeb.csproj|solutionrelative:bookstoreweb\\areas\\customer\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{823A1454-D85A-4FDB-8886-EB8005A564BA}|bookStoreWeb\\bookStoreWeb.csproj|c:\\users\\hayu\\source\\repos\\bookstore\\bookstoreweb\\areas\\customer\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{823A1454-D85A-4FDB-8886-EB8005A564BA}|bookStoreWeb\\bookStoreWeb.csproj|solutionrelative:bookstoreweb\\areas\\customer\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -23,14 +35,53 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Upsert.cshtml",
-              "DocumentMoniker": "C:\\Users\\hayu\\source\\repos\\bookStore\\bookStoreWeb\\Areas\\Admin\\Views\\Product\\Upsert.cshtml",
-              "RelativeDocumentMoniker": "bookStoreWeb\\Areas\\Admin\\Views\\Product\\Upsert.cshtml",
-              "ToolTip": "C:\\Users\\hayu\\source\\repos\\bookStore\\bookStoreWeb\\Areas\\Admin\\Views\\Product\\Upsert.cshtml",
-              "RelativeToolTip": "bookStoreWeb\\Areas\\Admin\\Views\\Product\\Upsert.cshtml",
-              "ViewState": "AgIAAEsAAAAAAAAAAAAAAFAAAAAAAAAAAAAAAA==",
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\hayu\\source\\repos\\bookStore\\bookStoreWeb\\Areas\\Customer\\Views\\Home\\Details.cshtml",
+              "RelativeDocumentMoniker": "bookStoreWeb\\Areas\\Customer\\Views\\Home\\Details.cshtml",
+              "ToolTip": "C:\\Users\\hayu\\source\\repos\\bookStore\\bookStoreWeb\\Areas\\Customer\\Views\\Home\\Details.cshtml",
+              "RelativeToolTip": "bookStoreWeb\\Areas\\Customer\\Views\\Home\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGMAAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-08T23:05:34.283Z",
+              "WhenOpened": "2025-01-08T23:17:25.597Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\hayu\\source\\repos\\bookStore\\bookStoreWeb\\Areas\\Customer\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "bookStoreWeb\\Areas\\Customer\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\hayu\\source\\repos\\bookStore\\bookStoreWeb\\Areas\\Customer\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "bookStoreWeb\\Areas\\Customer\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-08T23:16:13.086Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\hayu\\source\\repos\\bookStore\\bookStoreWeb\\Areas\\Customer\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "bookStoreWeb\\Areas\\Customer\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\hayu\\source\\repos\\bookStore\\bookStoreWeb\\Areas\\Customer\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "bookStoreWeb\\Areas\\Customer\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAACMAAAAAAAAAAAAAACwAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-08T23:12:05.932Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\hayu\\source\\repos\\bookStore\\bookStoreWeb\\Areas\\Customer\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "bookStoreWeb\\Areas\\Customer\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\hayu\\source\\repos\\bookStore\\bookStoreWeb\\Areas\\Customer\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "bookStoreWeb\\Areas\\Customer\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwAsAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T23:11:50.108Z",
               "EditorCaption": ""
             }
           ]
